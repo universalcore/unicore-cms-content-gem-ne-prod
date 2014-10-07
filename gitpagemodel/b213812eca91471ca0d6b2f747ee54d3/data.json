@@ -1,0 +1,20 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "description": "", 
+        "language": "eng_UK", 
+        "title": "Terms and Conditions", 
+        "primary_category": null, 
+        "created_at": "2014-10-07T11:57:41+00:00", 
+        "featured_in_category": false, 
+        "modified_at": "2014-10-07T13:26:50.987860+00:00", 
+        "linked_pages": [], 
+        "slug": "terms", 
+        "content": "**TERMS OF USE** \r\n\r\nPLEASE READ THE FOLLOWING TERMS AND CONDITIONS OF USE (\"TERMS OF USE\") CAREFULLY BEFORE USING THIS MOBILE WEBSITE (the \u201cWebsite\u201d). \r\n\r\nAll users of this Website agree that access to and use of this Website is subject to the following Terms of Use and other applicable laws. If you do not agree to these Terms of Use, please do not use this Website.\r\nThis Website has been created by the Nike Foundation (\u201cGirlEffect.org\u201d) and reserves the right to modify these Terms of Use at any time. You agree to review these Terms of Use periodically to be aware of such modifications and that your continued use of this Website shall be deemed to be your conclusive acceptance of any modified Terms of Use. We will indicate that changes to these Terms of Use have been made by updating the date indicated after \"Last Modified\" at the end of these Terms of Use. If you do not agree to abide by any modified version of these Terms of Use, you are not authorized to use this Website.\r\n\r\n**INTELLECTUAL PROPERTY**\r\n\r\nWe at GirlEffect.org encourage the reproduction and distribution of our materials, electronic products and/or services, including our name and logo on this Website (the \"Materials\"). However, such uses have limitations and it is important that you read and understand the following:\r\n\r\n - The entire content of this Website, including but not limited to\r\n   text, graphics or code is protected by copyright as a collective work\r\n   under the laws of the United States and other countries, and is the\r\n   property of GirlEffect.org or other third parties. The collective\r\n   work includes works that are licensed to GirlEffect.org.\r\n - \"The Girl Effect\" name and \"The Girl Effect and G\" logo (the \"Marks\") belong solely to GirlEffect.org. GirlEffect.org claims no    \r\n   rights in the \"G\" design alone.\r\n - You may use the Materials only for non-commercial or educational purposes only.\r\n - Any Materials used must retain any copyright, intellectual property, proprietary or other notices or disclaimers contained in the original material, and include the notation \"Source: GirlEffect.org.\"\r\n - When any Mark is used, please include the line \"_______ is a Trademark of GirlEffect.org\" visibly on the page.\r\n - You are forbidden from using the Materials:\r\n             \r\n - for personal or corporate gain unless granted prior written consent from GirlEffect.org;\r\n\r\n\r\n\r\n \r\n\r\n", 
+        "source": null, 
+        "featured": false, 
+        "published": true, 
+        "id": "b213812eca91471ca0d6b2f747ee54d3"
+    }, 
+    "model": "GitPageModel"
+}
