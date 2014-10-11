@@ -7,8 +7,9 @@
         "primary_category": "a411e913f1c84d479befbd6af6024965", 
         "created_at": "2014-10-08T15:40:29+00:00", 
         "featured_in_category": true, 
-        "modified_at": "2014-10-09T11:03:08.630768+00:00", 
+        "modified_at": "2014-10-11T08:35:52.612149+00:00", 
         "linked_pages": [
+            "0ad994f428fa4a7faa2c8b68e734a58d", 
             "4cd910d793f34b85b808f8a7915d1102"
         ], 
         "slug": "do-you-feel-alone-world", 
@@ -16,6 +17,7 @@
         "source": null, 
         "featured": false, 
         "published": true, 
+        "position": 0, 
         "id": "1fe011b11aec4cfbb9d62aba4cd5f434"
     }, 
     "model": "GitPageModel"
