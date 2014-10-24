@@ -1,13 +1,13 @@
 {
     "fields": {
         "subtitle": "", 
-        "description": "HII HAPA NI NAMNA", 
+        "description": "Hii hapa ni namna", 
         "language": "swh_TZ", 
-        "title": "UTASEMAJE LA? ", 
+        "title": "Utasemaje la?", 
         "primary_category": "4a1dda90e331498ebbc48175ad13f386", 
         "created_at": "2014-10-24T09:20:27+00:00", 
         "featured_in_category": true, 
-        "modified_at": "2014-10-24T11:52:13.097499+00:00", 
+        "modified_at": "2014-10-24T17:37:26.067768+00:00", 
         "linked_pages": [
             "7fffced0478d466bbc99215a912dba48"
         ], 
@@ -16,7 +16,7 @@
         "source": null, 
         "featured": false, 
         "published": true, 
-        "position": 6, 
+        "position": 10, 
         "id": "849e1085569246508953d5b6ecf550a3"
     }, 
     "model": "GitPageModel"
