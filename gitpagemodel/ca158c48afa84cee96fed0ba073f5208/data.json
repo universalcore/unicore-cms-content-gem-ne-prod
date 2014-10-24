@@ -1,13 +1,13 @@
 {
     "fields": {
         "subtitle": "", 
-        "description": "HII HAPA NI NJIA YA KUKABILIANA ", 
+        "description": "Hii hapa ni njia ya kukabilianaI", 
         "language": "swh_TZ", 
-        "title": "UNAJIHISI KUWA PEKE YAKO DUNIANI? ", 
+        "title": "Unajihisi kuwa peke yako duniani? ", 
         "primary_category": "4a1dda90e331498ebbc48175ad13f386", 
         "created_at": "2014-10-24T06:54:12+00:00", 
         "featured_in_category": false, 
-        "modified_at": "2014-10-24T07:43:11.483778+00:00", 
+        "modified_at": "2014-10-24T17:27:22.193017+00:00", 
         "linked_pages": [
             "729fd5b3402549dfb4ac76507c0f6a7b"
         ], 
@@ -16,7 +16,7 @@
         "source": null, 
         "featured": false, 
         "published": true, 
-        "position": 2, 
+        "position": 26, 
         "id": "ca158c48afa84cee96fed0ba073f5208"
     }, 
     "model": "GitPageModel"
