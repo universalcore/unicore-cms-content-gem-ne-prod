@@ -7,14 +7,14 @@
         "primary_category": null, 
         "created_at": "2014-10-08T13:12:41+00:00", 
         "featured_in_category": false, 
-        "modified_at": "2014-10-24T15:05:20.746503+00:00", 
+        "modified_at": "2014-10-24T16:37:34.833029+00:00", 
         "linked_pages": [], 
-        "slug": "tips_sw", 
+        "slug": "tips", 
         "content": "Kuna masharti machache ya msingi ambayo lazima ufuate ili uhakikishe wewe na wengine mnakaa salama na mnafurahia kutumia tovuti ya vifaa vya mkononi ya Girl Effect. Ukikiuka masharti haya huenda ukapokea onyo, au ukasimamishwa kwa muda au moja kwa moja. Masharti ni haya:\r\n\r\n - Unyanyasaji na uonevu wa watu wengine hautavumiliwa.\r\n - Heshimu watumiaji wenye umri mdogo na usitumie lugha mbaya, kali au ya matusi au kupendekeza viungo kwenda kwenye maudhui machafu au ya matusi.\r\n - Usitoe maelezo yako ya binafsi. Usiwaambie watu:\r\n           \r\n       - jina lako halisi (chagua jina la utani),\r\n       - umri wako,\r\n       - anwani yako,\r\n       - jina la shule yako,\r\n       - anwani yako ya barua pepe au nambari ya simu, au\r\n       - maelezo yoyote ya kifedha au manenosiri.\r\n\r\n - Epuka kukutana ana kwa ana na watu unaofahamiana nao kupitia mtandao. Lakini kama ukitukatana nao hakikisha una mtu mzina, au mzazi au mlezi, pamoja nawe.\r\n\r\nIkiwa una chini ya miaka 13 hupaswi kutumia huduma hii isipokuwa una ruhusa ya mzazi au mlezi wako na unaitumia chini ya uangalizi wao. Tovuti ya Girl Effect ya vifaa vya mkononi inafaa kwa watumiaji wenye umri wa kuanzia miaka 13 na kuendelea.", 
         "source": null, 
         "featured": false, 
         "published": true, 
-        "position": 25, 
+        "position": 29, 
         "id": "847d2625b4cb494fa817db64fd099ccf"
     }, 
     "model": "GitPageModel"
