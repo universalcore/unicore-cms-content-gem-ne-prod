@@ -1,13 +1,13 @@
 {
     "fields": {
         "subtitle": "", 
-        "description": "UNA HAKI ", 
+        "description": "Una haki", 
         "language": "swh_TZ", 
-        "title": "UNATENDEWA VIBAYA? ", 
+        "title": "Unatendewa vibaya? ", 
         "primary_category": "4a1dda90e331498ebbc48175ad13f386", 
         "created_at": "2014-10-24T08:20:39+00:00", 
         "featured_in_category": true, 
-        "modified_at": "2014-10-24T11:54:21.496497+00:00", 
+        "modified_at": "2014-10-24T17:36:25.803454+00:00", 
         "linked_pages": [
             "c0cffdee94bf4158b02cc590fe00c722"
         ], 
@@ -16,7 +16,7 @@
         "source": null, 
         "featured": false, 
         "published": true, 
-        "position": 12, 
+        "position": 16, 
         "id": "ba6c495b15934abeb19c2de6ee09cf7e"
     }, 
     "model": "GitPageModel"
