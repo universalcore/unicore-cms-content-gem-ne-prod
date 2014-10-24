@@ -1,0 +1,21 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "description": "", 
+        "language": "swh_TZ", 
+        "title": "Wasiliana nasi", 
+        "primary_category": null, 
+        "created_at": "2014-10-24T15:13:36.272301+00:00", 
+        "featured_in_category": false, 
+        "modified_at": "2014-10-24T15:13:36.272486+00:00", 
+        "linked_pages": [], 
+        "slug": "wasiliana-nasi", 
+        "content": "Je, umepata unachohitaji kutoka kwenye tovuti hii? Tafadhali tueleze iwapo kuna kitu tunachotakiwa tuongeze hapa.\r\n\r\nTUTUMIE BARUA PEPE  : info@girleffect.org\r\n\r\nPENDA UKURASA WETU KWENYE  [FACEBOOK][1]\r\n\r\n\r\n  [1]: https://www.facebook.com/girleffect", 
+        "source": null, 
+        "featured": false, 
+        "published": true, 
+        "position": 0, 
+        "id": "7ff9de1f99914620a8a6451ef0c53f39"
+    }, 
+    "model": "GitPageModel"
+}
