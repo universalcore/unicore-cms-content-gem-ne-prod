@@ -1,13 +1,13 @@
 {
     "fields": {
         "subtitle": "", 
-        "description": "PATA MARAFIKI WAZURI WA MAISHANI ", 
+        "description": "Pata marafiki wazuri a maishani", 
         "language": "swh_TZ", 
-        "title": "UKO KWENYE KIKUNDI KIBAYA", 
+        "title": "Uko kwenye kikundi kibaya", 
         "primary_category": "4a1dda90e331498ebbc48175ad13f386", 
         "created_at": "2014-10-24T08:00:52+00:00", 
         "featured_in_category": true, 
-        "modified_at": "2014-10-24T11:58:00.506962+00:00", 
+        "modified_at": "2014-10-24T17:21:16.576042+00:00", 
         "linked_pages": [
             "4d3536eec56b4d59a984f5d63e56631c"
         ], 
@@ -16,7 +16,7 @@
         "source": null, 
         "featured": false, 
         "published": true, 
-        "position": 16, 
+        "position": 20, 
         "id": "1f8856c4889b4a1ca23bbb85353f2852"
     }, 
     "model": "GitPageModel"
