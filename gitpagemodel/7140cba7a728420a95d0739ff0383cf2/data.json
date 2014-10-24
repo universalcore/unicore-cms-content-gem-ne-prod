@@ -5,16 +5,18 @@
         "language": "swh_TZ", 
         "title": "UNAJITAHIDI KUTAFUTA MWELEKEO NA KUELEZEA HISIA? ", 
         "primary_category": "4a1dda90e331498ebbc48175ad13f386", 
-        "created_at": "2014-10-24T08:10:45.262640+00:00", 
-        "featured_in_category": false, 
-        "modified_at": "2014-10-24T08:10:45.262968+00:00", 
-        "linked_pages": [], 
+        "created_at": "2014-10-24T08:10:45+00:00", 
+        "featured_in_category": true, 
+        "modified_at": "2014-10-24T11:54:44.828709+00:00", 
+        "linked_pages": [
+            "2e27503d028f4175b5855f80c687b86e"
+        ], 
         "slug": "unajitahidi-kutafuta-mwelekeo-na-kuelezea-hisia", 
         "content": "**UNAJITAHIDI KUTAFUTA MWELEKEO NA KUELEZEA HISIA?**\r\n\r\n - Jaribu shughuli mpya unapokuwa na nafasi. Huenda ukapata kipaji cha asili ambacho hukuwahi kujua ulikuwa nacho!\r\n - Jitie moyo kwa kufikiria mambo mazuri badala ya mabaya. Kwa mfano, jiambie, 'Nina ujasiri, 'Mimi ni mrembo' au 'Ninaweza kufanya hili.'\r\n - Tafuta rafiki na washauri wanaokuunga mkono kukuza vipaji vyako. Marafiki wanaweza kuujenga ujasiri wako kwa kukuhimiza kuendelea kujaribu hata kama unahisi kukata tamaa. Pia wanatambua unapofanya vyema na kusherehekea nawe. Kaa na marafiki wenye mitazamo mizuri wanaokuhimiza. \r\n - Kila mtu anayepitia utu uzima huwa na hisia kali. Unapohisi kuzidiwa na hisia zako, inaweza kusaidia kuvuta hewa ndani, kufanya kitu cha kuchangamsha kama densi au kutembea (kama ni salama), au kumtafuta mtu anayeaminika kumzungumzia.  \r\n<p>\r\n **Kuishi katika umaskini na nafasi chache, wasichana wengi hujitahidi kutafuta mwelekeo wao. Mabreidy is one girl who felt like this. This is her story:** ", 
         "source": null, 
         "featured": false, 
         "published": true, 
-        "position": 0, 
+        "position": 14, 
         "id": "7140cba7a728420a95d0739ff0383cf2"
     }, 
     "model": "GitPageModel"
