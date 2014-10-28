@@ -7,7 +7,7 @@
         "primary_category": "93d5b8b8586b45f590d4d05c5c261814", 
         "created_at": "2014-10-24T08:24:30+00:00", 
         "featured_in_category": true, 
-        "modified_at": "2014-10-24T11:54:12.108140+00:00", 
+        "modified_at": "2014-10-28T06:45:23.420698+00:00", 
         "linked_pages": [
             "6ebe11303ed547edaa1595af521bc6ae"
         ], 
@@ -16,7 +16,7 @@
         "source": null, 
         "featured": false, 
         "published": true, 
-        "position": 11, 
+        "position": 6, 
         "id": "ec2c346dd9914cee936961db3115d871"
     }, 
     "model": "GitPageModel"
