@@ -1,0 +1,17 @@
+{
+  "subtitle": "", 
+  "uuid": "93d5b8b8586b45f590d4d05c5c261814", 
+  "language": "swh_TZ", 
+  "title": "Girl Heroes", 
+  "_version": {
+    "package_version": "0.2.5", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "girl-heroes", 
+  "source": null, 
+  "featured_in_navbar": true, 
+  "id": "93d5b8b8586b45f590d4d05c5c261814"
+}
