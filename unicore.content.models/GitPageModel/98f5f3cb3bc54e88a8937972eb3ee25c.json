@@ -1,0 +1,27 @@
+{
+  "subtitle": "", 
+  "description": "Some things you can do", 
+  "language": "eng_UK", 
+  "title": "Keep Yourself Safe", 
+  "primary_category": "a411e913f1c84d479befbd6af6024965", 
+  "created_at": "2014-10-08T15:45:13+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-10-11T08:57:21.959442+00:00", 
+  "_version": {
+    "package_version": "0.2.5", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "39a7d39af40f485e94bd6b7ab6558f56"
+  ], 
+  "id": "98f5f3cb3bc54e88a8937972eb3ee25c", 
+  "content": "**KEEP YOURSELF SAFE**\r\n<p> Unfortunately, our world isn\u2019t always safe and secure - especially for girls and young women. Sexual harassment can happens to girls in their homes, at school, in the market, at work, or anywhere. You need to be ready and prepared for these situations. </p>\r\n\r\nHere are some things you can DO to help keep yourself safe:\r\n\r\n<ul>\r\n<li>Avoid risky locations: If you know that some place you are asked to go presents a physical or other risk - simply try to avoid going there if you can. </li>\r\n<li>Use the buddy system: move around public spaces with one or more friends - don\u2019t go alone!  </li>\r\n<li>Find a trusted chaperone: if you feel unsafe in certain places at certain times (like walking to or from school), but you MUST GO, ask someone you trust to accompany you.</li>\r\n<li>Always tell someone else where/when you are going and when you will return. If possible, have someone meet you at your destination. This way, if something happens, others will know and can take action.</li>\r\n<li>TELL adults when things happen to you or your friends - and encourage them to help make sure the situations are addressed and do not happen again!</li>\r\n<li>MAKE A PLAN: Find a trusted adult who you can go to if something goes\r\nwrong. Make sure you know where to find this person or how to contact them when you need help. Chat with your other friends about finding people you can trust and keeping each other safe.</li>\r\n<p> \r\n**Many girls and women in India are expected to stay at home where they are safer from outside harassment. But more and more girls are finding the courage to change that. Read the story of one girl.**\r\n\r\n</ul>\r\n", 
+  "source": null, 
+  "featured": false, 
+  "published": true, 
+  "slug": "keep_yourself_safe", 
+  "uuid": "98f5f3cb3bc54e88a8937972eb3ee25c"
+}
