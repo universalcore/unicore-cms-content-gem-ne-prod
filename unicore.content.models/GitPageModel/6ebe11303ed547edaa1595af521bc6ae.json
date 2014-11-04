@@ -1,0 +1,25 @@
+{
+  "subtitle": "", 
+  "description": "Your body is changing", 
+  "language": "swh_TZ", 
+  "title": "UTU UZIMA NI NINI?", 
+  "primary_category": "4a1dda90e331498ebbc48175ad13f386", 
+  "created_at": "2014-10-24T08:41:46.606125+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-10-24T08:41:46.606286+00:00", 
+  "_version": {
+    "package_version": "0.2.5", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": "6ebe11303ed547edaa1595af521bc6ae", 
+  "content": "**UTU UZIMA NI NINI?**\r\n\r\n\r\nUtu uzima ni wakati ambao unapitia mabadiliko mengi. Mwili wako utaanza kubadilika na huenda mihemko (moods) yako ikabadilika. Haya hapa ni mambo machache ya kutarajia:\r\n\r\n\r\n - Utatambua matiti yako yakianza kukua na utaanza kuota nywele za sehemu za siri. Huu ni wakati unaoweza kuanza kupata hedhi (period) zako pia.\r\n - Ni kawaida kuhisi vibaya kuhusu mabadiliko mwilini mwako. Unaweza kuhisi kuchukizwa, kuwa na hasira au kufadhaishwa. Ni vizuri kuzungumza na mtu unapohisi hivi.\r\n - Utu uzima unamtokea kila msichana na mvulana, lakini si wote kwa umri mmoja. Namna unavyokua unaweza kuwa tofauti na jinsi marafiki zako wanavyokua. Hii inaweza kukufanya kuwa na wasiwasi au kuhisi kuachwa nyuma - lakini kumbuka kuwa kila mtu ni tofauti na mwili wako utakua kwa kasi yake wenyewe. \r\n - Wakati wa utu uzima huenda ukataka kuzungumza na marafiki zako kuliko watu wazima. Kumbuka tu kuchagua marafiki wazuri watakaokujenga na walio na malengo na ndoto sawa. \r\n<p>\r\n\r\n**Utu uzima ni jina la wakati unapoanza kubadilika kutoka kuwa mtoto hadi kuwa mtu mzima. Utu uzima ni hali ya kawaida \u2014 unamtokea kila mtu. Utapitia mabadiliko mengi, lakini bado utasalia kuwa WEWE\u2014ukiwa na baadhi ya vitu muhimu tofauti. Hiki ni kisa cha msichana mmoja.**", 
+  "source": null, 
+  "featured": false, 
+  "published": true, 
+  "slug": "utu-uzima-ni-nini", 
+  "uuid": "6ebe11303ed547edaa1595af521bc6ae"
+}
