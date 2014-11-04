@@ -3,15 +3,15 @@
   "description": "Because it gives you a brighter future", 
   "language": "eng_UK", 
   "title": "Why study hard?", 
-  "primary_category": "f9a28362218b45d482c7f13fce2ecf34", 
+  "primary_category": "a411e913f1c84d479befbd6af6024965", 
   "created_at": "2014-10-08T15:41:48+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-10-09T11:15:27.076175+00:00", 
+  "modified_at": "2014-11-04T17:02:56.798607+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -22,6 +22,7 @@
   "source": null, 
   "featured": false, 
   "published": true, 
+  "position": 31, 
   "slug": "why-study-hard", 
   "uuid": "f3712b13213548548f85465f304ceaab"
 }
