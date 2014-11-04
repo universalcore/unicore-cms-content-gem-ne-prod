@@ -6,12 +6,12 @@
   "primary_category": "f9a28362218b45d482c7f13fce2ecf34", 
   "created_at": "2014-10-08T04:39:35+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2014-10-12T08:52:30.642384+00:00", 
+  "modified_at": "2014-11-04T17:03:02.917059+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -22,6 +22,7 @@
   "source": null, 
   "featured": false, 
   "published": true, 
+  "position": 31, 
   "slug": "Lina", 
   "uuid": "ebb26f354975477492af0fe1c3cf1e58"
 }
