@@ -6,12 +6,12 @@
   "primary_category": "f9a28362218b45d482c7f13fce2ecf34", 
   "created_at": "2014-10-08T05:43:54+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2014-11-12T11:25:48.078670+00:00", 
+  "modified_at": "2014-11-13T13:13:35.037774+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -20,7 +20,7 @@
   "source": null, 
   "featured": false, 
   "published": true, 
-  "position": 31, 
+  "position": 0, 
   "slug": "Faith", 
   "uuid": "7e28c971bde34657a6100b7a9b878307"
 }
