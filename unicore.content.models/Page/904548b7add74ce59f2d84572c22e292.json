@@ -6,12 +6,12 @@
   "primary_category": "f9a28362218b45d482c7f13fce2ecf34", 
   "created_at": "2014-10-07T12:32:43+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-11-04T20:23:50.080655+00:00", 
+  "modified_at": "2014-11-13T13:13:36.288671+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -22,7 +22,7 @@
   "source": null, 
   "featured": true, 
   "published": true, 
-  "position": 31, 
+  "position": 7, 
   "slug": "Mabreidy", 
   "uuid": "904548b7add74ce59f2d84572c22e292"
 }
