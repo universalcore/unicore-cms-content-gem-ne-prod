@@ -1,0 +1,23 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "description": "Hii hapa ni njia ya kukabiliana", 
+        "language": "swh_TZ", 
+        "title": "Unajihisi kuwa peke yako duniani? ", 
+        "primary_category": "4a1dda90e331498ebbc48175ad13f386", 
+        "created_at": "2014-10-24T06:54:12+00:00", 
+        "featured_in_category": false, 
+        "modified_at": "2014-10-28T06:45:01.745294+00:00", 
+        "linked_pages": [
+            "729fd5b3402549dfb4ac76507c0f6a7b"
+        ], 
+        "slug": "unajihisi-kuwa-peke-yako-duniani", 
+        "content": "**UNAJIHISI KUWA PEKE YAKO DUNIANI? HII HAPA NI NJIA YA KUKABILIANA** \r\n\r\n<ul>\r\n<li>Unaweza kujihisi mpweke hata kama kila kitu kinaonekana kuwa bora sawa kwako. Huenda uko peke yako na huna chaguo katika hili, au huhisi kuwa mmojawapo wa kikundi au tukio au huna yeyote anayekuelewa. Kujihisi kuwa peke yako kunaweza kutuacha na maswali mengi sana. Kwa nini ilitokea? Lilikuwa kosa langu? . </li>\r\n<li>Mara nyingi kuwa mpweke hukufanya kutaka kujitenga hata zaidi lakini kunaweza kuwa na watu wanaojaribu kukufikia. \r\n </li>\r\n<li>Wakusanye marafiki wanaokuunga mkono pole pole na kuwapenda watu walio karibu nawe. Kuwa na watu unaoweza kuzungumza nao maishani mwako kutakusaidia kujifunza kukabiliana na utamaushaji na upotevu wako.  Baada ya muda utaanza kuwaamini watu tena.</li>\r\n<li>Tafuta kikundi cha usaidizi. Fatuma alipata Heshima Kenya na pia kuna vikundi vingine vya usaidizi katika kila nchi vinavyoweza kukusaidia kuimarisha maisha yako tena. Uliza kwenye kituo cha polisi, shuleni au uliza mtu mzima unayemjua akusaidie kupata kikundi kimoja.\r\n</li>\r\n<li>Huko peke yako. Sio kila mmoja aliye na familia na kuna wasichana wengine kama wewe. Unaweza kujenga mahusiano ya karibu na thabiti kwa kuwa rafiki mzuri kwa wengine.  \r\n</li>\r\n</ul>\r\n\r\nKatika miaka ya hivi karibuni, wakimbizi kutoka Somalia, Sudan, Ethiopia na Jamhuri ya Demokrasia ya Kongo walikimbia kutokana na ghasia nchini mwao na kuwasili nchini Kenya. Soma zaidi kuhusu kisa cha Fatuma.", 
+        "source": null, 
+        "featured": false, 
+        "published": true, 
+        "position": 12, 
+        "id": "ca158c48afa84cee96fed0ba073f5208"
+    }, 
+    "model": "GitPageModel"
+}

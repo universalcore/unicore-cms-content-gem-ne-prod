@@ -1,0 +1,23 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "description": "Top tips for girls ", 
+        "language": "eng_UK", 
+        "title": "Make your community safe", 
+        "primary_category": "a411e913f1c84d479befbd6af6024965", 
+        "created_at": "2014-10-08T15:27:15+00:00", 
+        "featured_in_category": false, 
+        "modified_at": "2014-10-13T10:38:47.693579+00:00", 
+        "linked_pages": [
+            "7e28c971bde34657a6100b7a9b878307"
+        ], 
+        "slug": "stay-safe", 
+        "content": "**STAY SAFE: HERE\u2019S HOW**\r\n\r\n**REALIZE:**  There are dangerous people and situations in the world. You do not have to be constantly scared but you should know that your community is not always a safe place.\r\n\r\n**BE AWARE:** Be aware of people or places that make you feel nervous or afraid and plan to avoid them - this will help you be better able to protect yourself and prevent anything bad from happening.\r\n\r\n**ASSESS:**  If someone does come close to you or starts saying bad things to you, decide what you will say and do. There are many different things you can do such as confront the person and tell them to stop, quickly walk away, or ask for help from people around you. \r\n\r\n**BE ASSERTIVE:** Say NO! Say it loud, clear, and often if someone is harassing you. \r\n\r\n**ACT:** If you need to, do not be afraid of acting to make abuse or harassment stop. Action can be anything from running away to hitting someone in self defence. If you are in a crowded place, confronting someone is much safer. When you are alone think about ways to get away.\r\n\r\n**AVOID:** As much as possible try to avoid people who make you feel uncomfortable or appear threatening. Also, avoid certain places that you know to be dangerous. Avoiding these people or situations is one of the best ways to stay safe.  It also helps to avoid traveling alone or at night. \r\n\r\n**MAKE A PLAN:** Find a trusted adult who you can go to if something goes wrong. Make sure you know where to find this person or how to contact them when you need a friend. Chat with your other friends about finding people you can trust and keeping each other safe. \r\n<p>\r\nEvery day girls face dangerous situations in their own communities. It could be bullies at school or taunting and touching in the market or on the bus. This is Faith's story:", 
+        "source": null, 
+        "featured": false, 
+        "published": true, 
+        "position": 0, 
+        "id": "ce9e0d6f1ca1438a80e7e74446ab41e1"
+    }, 
+    "model": "GitPageModel"
+}

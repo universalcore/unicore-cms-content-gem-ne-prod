@@ -1,0 +1,26 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "eng_UK", 
+  "title": "About", 
+  "primary_category": null, 
+  "created_at": "2014-10-07T12:07:52+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-11-04T20:23:51.714997+00:00", 
+  "_version": {
+    "package_version": "0.2.5", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": "6cd055c5836d45afa328d148e32372f8", 
+  "content": "The idea of the Girl Effect started 10 years ago when a group of people started noticing that adolescent girls were doing some pretty amazing things around the world.  They watched and listened to what girls were doing and they realised that, when given the chance, the girl is actually the most powerful force for change on the planet - and they wanted others to know this too. More people, including powerful people, started understanding that girls really do have a special spark and could even end poverty for themselves, their families, their communities and ultimately for the world.  As more people became aware of the power of girls, a movement started and this became known as the Girl Effect.  Today even more people are joining the Girl Effect, and we hope you can join us too.", 
+  "source": null, 
+  "featured": false, 
+  "published": true, 
+  "position": 31, 
+  "slug": "about", 
+  "uuid": "6cd055c5836d45afa328d148e32372f8"
+}

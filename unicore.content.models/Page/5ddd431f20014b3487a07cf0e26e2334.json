@@ -1,0 +1,26 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "swh_TZ", 
+  "title": "Girl Effect ni nini", 
+  "primary_category": null, 
+  "created_at": "2014-10-24T15:16:24+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-11-04T20:23:39.060665+00:00", 
+  "_version": {
+    "package_version": "0.2.5", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": "5ddd431f20014b3487a07cf0e26e2334", 
+  "content": "Wazo la Girl Effect lilianza wakati kundi la watu liligundua kuwa, wanapopewa nafasi, wasichana wanaweza kuwa nguvu kubwa mno ya kuleta mabadiliko duniani. Walisambaza ujumbe huo na sasa watu zaidi, pamoja na watu wenye nguvu, wanaamini kuwa wasichana wanao uwezo wa kukomesha umasikini wao wenyewe, wa familia zao, jamii zao na hatimaye ulimwengu wote.\r\n\r\nKadri watu wengi walivyofahamu kuhusu nguvu ya wasichana, Girl Effect ilibadilika kutoka kuwa wazo na ikawa harakati.  Leo watu wengi zaidi wanajiunga na Girl Effect, na tunatumaini utajiunga nasi pia.\r\n\r\nPata maelezo zaidi katika tovuti ya [girleffect.org][1]\r\n\r\n\r\n  [1]: http://girleffect.org", 
+  "source": "6cd055c5836d45afa328d148e32372f8", 
+  "featured": false, 
+  "published": true, 
+  "position": 4, 
+  "slug": "about", 
+  "uuid": "5ddd431f20014b3487a07cf0e26e2334"
+}

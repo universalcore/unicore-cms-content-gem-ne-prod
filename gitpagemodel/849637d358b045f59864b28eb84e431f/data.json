@@ -1,0 +1,23 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "description": "Stay away from germs", 
+        "language": "eng_UK", 
+        "title": "How to avoid getting sick", 
+        "primary_category": "a411e913f1c84d479befbd6af6024965", 
+        "created_at": "2014-10-08T15:30:16+00:00", 
+        "featured_in_category": false, 
+        "modified_at": "2014-10-11T08:48:00.236150+00:00", 
+        "linked_pages": [
+            "67ad42c4446e43359912b6d5185af72b"
+        ], 
+        "slug": "how-avoid-getting-sick", 
+        "content": "**HOW TO AVOID GETTING SICK**\r\n\r\n - Most viral germs are spread through the air in sneezes or coughs. Germs can also spread in sweat, saliva and blood. Some pass from person to person by touching something that is contaminated, like shaking hands with someone who has a cold, then touching your own nose. If one of your relatives is sick, cover your mouth and stay away from them if possible. If you are in a closed space, try and open a window to let fresh air in and germs out. \r\n - WASH YOUR HANDS! Remember that germs fear soap and water. Washing your hands often is the best way to beat germs. Keep strong and healthy by eating well, exercising regularly and getting good sleep. All this will help you to be prepared to fight germs that cause illness.\r\n - Tuberculosis (TB) is a disease caused by tiny bacteria (germs). The TB bacteria are put into the air when a person with TB coughs, sneezes, speaks, or sings. People nearby may breathe in these bacteria and become infected. Some of the signs you may notice if you have have caught it are:  Night sweats. Feeling weak and tired.  An ongoing cough (lasting at least three weeks). Blood when you cough. Chest pain. A wheezing sound when you breathe. Breathing problems. If you feel strange or think that there is something wrong, don\u2019t wait. Go straight to your closest health post, clinic or hospital.\r\n\r\n**Millions of people around the world suffer from diseases they catch from other sick people. This is one girl\u2019s story:** ", 
+        "source": null, 
+        "featured": false, 
+        "published": true, 
+        "position": 0, 
+        "id": "849637d358b045f59864b28eb84e431f"
+    }, 
+    "model": "GitPageModel"
+}

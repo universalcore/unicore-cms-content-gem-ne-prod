@@ -1,0 +1,18 @@
+{
+  "subtitle": "", 
+  "uuid": "4a1dda90e331498ebbc48175ad13f386", 
+  "language": "swh_TZ", 
+  "title": "Mawaidha ya maisha ", 
+  "_version": {
+    "package_version": "0.2.5", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "life-tips", 
+  "source": null, 
+  "position": null, 
+  "featured_in_navbar": true, 
+  "id": "4a1dda90e331498ebbc48175ad13f386"
+}

@@ -1,0 +1,23 @@
+{
+    "fields": {
+        "subtitle": "Utu uzima unaharibu umbo langu!", 
+        "description": "Utu uzima unaharibu umbo langu!", 
+        "language": "swh_TZ", 
+        "title": "Ngozi yangu ina matatizo", 
+        "primary_category": "93d5b8b8586b45f590d4d05c5c261814", 
+        "created_at": "2014-10-24T08:24:30+00:00", 
+        "featured_in_category": true, 
+        "modified_at": "2014-10-28T06:45:23.420698+00:00", 
+        "linked_pages": [
+            "6ebe11303ed547edaa1595af521bc6ae"
+        ], 
+        "slug": "ngozi-yangu-ina-matatizo", 
+        "content": "*Utu uzima ni jina la wakati unapoanza kubadilika kutoka kuwa mtoto hadi kuwa mtu mzima. Utu uzima ni hali ya kawaida \u2014 unamtokea kila mtu. Utapitia mabadiliko mengi, lakini bado utasalia kuwa WEWE\u2014ukiwa na baadhi ya vitu muhimu tofauti. Hiki ni kisa cha msichana mmoja.*\r\n\r\nMimi ni Thandi na ninaishi Afrika Kusini. Nilipokuwa na miaka 13 ngozi yangu ilibadilika. Mgongo na mabega yangu yalijaa vidudusi na mapaja na miguu yangu ikawa na alama za mistari. Vilikuwa vigumu kuwa na furaha kwa sababu nilifahamu wakati wote namna ngozi yangu ilivyofanana vibaya.\r\n\r\nNingeivalia kofia ili kufunika vidudusi (pimples) na chunusi (blackheads) kwenye uso wangu, haswa kwenye paji langu la uso.  Ningevalia nguo ya mikono mirefu na sketi ndefu. Chochote cha kujifunika.\r\n\r\nNilifadhaika sana, kwa sababu watu hawakuwa waungwana kwangu. Pia, niliamini kuwa hakuna mwanamume ambaye angetaka kunitongoza nikiwa na ngozi kama hiyo, kwa hivyo nilisalia nyumbani na sikutembea sana.\r\n\r\nLakini mambo yalibadilika nilipokutana na mwanamume kanisani kwangu. Alikuwa mwungwana sana kwangu na baada ya kuwa rafiki kwa muda mfupi aliniambia kuwa alipenda kila kitu changu. Sikuamini!\r\n\r\nAlinisaidia kuona zaidi ya kilichokuwa nje. Ninajua kuwa mimi ni mtu mzuri. Nilikasirika tu kuhusu namna nilivyokuwa na kusahau kujipenda na kuutunza mwili wangu. \r\n\r\nNimezikubali alama za mistari lakini nimeanza kujitunza zaidi. Ninaosha uso wangu mara mbili kwa siku kwa sabuni na maji. Ninafanya mazoezi na kuepuka vyakula vyenye mafuta mengi. Ninajua vidudusi vitatoweka hivi karibuni. \r\n\r\nNilikuwa nikilia kila siku kwa sababu watu hawakuwa waungwana kwangu kwa namna nilivyokuwa. Lakini sasa sitajifungia nyumbani tena. \r\n\r\nNina mapenzi na fahari moyoni mwangu na haijalishi nilivyo nje, nitaangazia elimu na maisha yangu, kwa sababu hilo ndilo muhimu zaidi. \r\n", 
+        "source": null, 
+        "featured": false, 
+        "published": true, 
+        "position": 6, 
+        "id": "ec2c346dd9914cee936961db3115d871"
+    }, 
+    "model": "GitPageModel"
+}

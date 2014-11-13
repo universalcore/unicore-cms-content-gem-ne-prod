@@ -1,0 +1,23 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "description": "Hii Hapa Ni Namna", 
+        "language": "swh_TZ", 
+        "title": "Kuwa Salama", 
+        "primary_category": "4a1dda90e331498ebbc48175ad13f386", 
+        "created_at": "2014-10-24T10:13:32+00:00", 
+        "featured_in_category": true, 
+        "modified_at": "2014-10-28T06:45:01.649624+00:00", 
+        "linked_pages": [
+            "22479bfd2c5c485ab4cc4e9d57aaa1b1"
+        ], 
+        "slug": "kuwa-salama", 
+        "content": "**KUWA SALAMA: HII HAPA NI NAMNA**\r\n\r\nTAMBUA:  Kuna watu na hali hatari duniani. Hufai kuhofia kila mara lakini unapaswa kujua kuwa jamii yako si eneo salama wakati wote.\r\n\r\nTAHADHARI: Tahadhari watu au maeneo yanayokufanya kuhofia au kuogopa na upange kuyaepuka - hii itakusaidia kuweza kujilinda vyema na kuzuia chochote kibaya kutokea.\r\n\r\nPIMA:  Iwapo mtu atakusogelea au kuanza kukuambia vitu vibaya, amua utakachosema na kufanya. Kuna vitu vingi tofauti unavyoweza kufanya kama vile kumkabili mtu huyo na kumwambia akome, kuondoka haraka, au uombe usaidizi kutoka kwa watu walio karibu nawe.\r\n\r\nKUWA JASIRI: Sema LA! Iseme kwa sauti, dhahiri, na kila mara mtu akikunyanyasa. \r\n\r\nCHUKUA HATUA: Ukitaka, usiogope kuchukua hatua ili kukomesha dhuluma au unyanyasaji. Hatua kinaweza kuwa chochote kama kukimbia au kumpiga mtu ili kujilinda. Iwapo uko kwenye eneo lenye watu wengi, kumkabili mtu ni salama zaidi. Unapokuwa peke yako fikiria njia za kutoroka.\r\n\r\nEPUKA: Jaribu uwezavyo kuepuka watu wanaokufanya kuhisi kutokuwa na raha au wanaoonekana tishio. Pia, epuka maeneo fulani unayojua ni hatari. Kuepuka watu hawa au hali hizi ni njia moja bora ya kuwa salama.  Pia inasaidia kuepuka kusafiri peke yako au usiku. \r\n\r\nWEKA MPANGO: Tafuta mtu mzima wa kuaminika unayeweza kuenda kwake kukiwa na tatizo. Hakikisha unajua pa kumpata mtu huyu au namna unavyoweza kuwasiliana naye unapomhitaji rafiki. Piga gumzo na marafiki zako wengine kuhusu kupata watu unaoweza kuamini na kulindana. \r\n", 
+        "source": null, 
+        "featured": false, 
+        "published": true, 
+        "position": 1, 
+        "id": "ed30d0e44b2f49418bba76906dce2b8f"
+    }, 
+    "model": "GitPageModel"
+}

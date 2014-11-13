@@ -1,0 +1,28 @@
+{
+  "subtitle": "", 
+  "description": "Pata marafiki wazuri a maishani", 
+  "language": "swh_TZ", 
+  "title": "Uko kwenye kikundi kibaya", 
+  "primary_category": "4a1dda90e331498ebbc48175ad13f386", 
+  "created_at": "2014-10-24T08:00:52+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2014-11-04T20:23:42.116861+00:00", 
+  "_version": {
+    "package_version": "0.2.5", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "4d3536eec56b4d59a984f5d63e56631c"
+  ], 
+  "id": "1f8856c4889b4a1ca23bbb85353f2852", 
+  "content": "**UKO KWENYE KIKUNDI KIBAYA? PATA MARAFIKI WAZURI WA MAISHANI** \r\n\r\n<li>Chagua marafiki zako kwa busara. Kaa na watu wenye mitazamo mizuri watakaokuhimiza kuendelea kujaribu hata kama umekatishwa tamaa.  </li>\r\n<li>Epuka kuwa na marafiki na watu wanaokucheka au wanaokushusha.\r\n </li>\r\n<li>Ungana na watu wanaotaka vitu vizuri unavyovifanya. Wachague marafiki wenye ndoto za kukaa shuleni, kupata alama nzuri na kujitafutia nafasi. Walio na maisha bora mbele yao - kama wewe!</li>\r\n<li>Rafiki mzuri ni mtu umpendaye na kumsaidia wakati wa raha na shida. Na wanaokutendea hivyo hivyo. Marafiki wa kweli wana mwelekeo na maono ya maisha yao. Marafiki husaidiana ili kuepuka kufanya maamuzi mabaya yanayoweza kuhatarisha maisha yao. \r\n</li>\r\n<li>Kuwa rafiki mzuri. Sikiliza, saidia, na uwe wa kuaminika. Saidianeni, na umsamehe rafiki anayefanya makosa. \r\n</li>\r\n<p>\r\nLeidy ni msichana wa miaka 17 kutoka Kolombia. Biashara ya dawa za kulevya na mgogoro unaoendelea unafanya mitaa fulani --au wilaya-- katika mji wake wa Bogota, kuwa hatari sana, haswa kwa wasichana wadogo. Hiki ni kisa cha msichana huyu: \r\n", 
+  "source": "8e2ab677eaf54667af590f3e5a5b4ffa", 
+  "featured": false, 
+  "published": true, 
+  "position": 9, 
+  "slug": "uko-kwenye-kikundi-kibaya", 
+  "uuid": "1f8856c4889b4a1ca23bbb85353f2852"
+}

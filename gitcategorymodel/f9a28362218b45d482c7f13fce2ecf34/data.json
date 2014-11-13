@@ -1,0 +1,13 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "language": "eng_UK", 
+        "title": "Girl Heroes", 
+        "slug": "girl-heroes", 
+        "source": null, 
+        "position": 0, 
+        "featured_in_navbar": true, 
+        "id": "f9a28362218b45d482c7f13fce2ecf34"
+    }, 
+    "model": "GitCategoryModel"
+}
