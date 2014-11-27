@@ -2,13 +2,13 @@
   "subtitle": "", 
   "uuid": "c63540b99f394f83b8029076d016710b", 
   "language": "fre_SN", 
-  "title": "Life Tips", 
+  "title": "Conseils de la vie", 
   "image": null, 
   "_version": {
     "package_version": "0.2.9", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "slug": "life-tips", 
