@@ -1,0 +1,28 @@
+{
+  "subtitle": "", 
+  "description": "Je dois \u00eatre un bon citoyen", 
+  "language": "fre_SN", 
+  "title": "Les gar\u00e7ons du coin ", 
+  "primary_category": "bacd97a95386494abc571c419392c7d4", 
+  "created_at": "2014-11-30T00:27:20.587468+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-11-30T00:27:20.587656+00:00", 
+  "_version": {
+    "package_version": "0.2.9", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "*Tous les jours les filles font face \u00e0 des situations dangereuses dans leurs propres communaut\u00e9s. Il peut s'agir des intimidateurs \u00e0 l'\u00e9cole ou des provocateurs sur le march\u00e9 ou dans le bus. Voici l'histoire d'une fille.*\r\n\r\nJe m'appelle Faith. Je retournais chez moi apr\u00e8s avoir trouv\u00e9 de l'eau. Il faisait tard dans la soir\u00e9e et j'\u00e9tais seule. Juste devant je voyais un groupe de trois adolescents au coin d'un bar. Je savais qu'ils allaient me causer des ennuis.  Je n'ai pas ralenti. Je ne voulais pas qu'elles sachent que j'avais peur. Donc ce que j'ai travers\u00e9 la rue pour les \u00e9viter. C'\u00e9tait trop tard pour retourner.\r\n\r\nMais ils me regardaient et m'attendaient.  Ils ont travers\u00e9 la rue et on essay\u00e9 de me suivre.  Mon c\u0153ur commen\u00e7ait \u00e0 battre. J'avais si peur. Ils ont commenc\u00e9 \u00e0 siffler et \u00e0 m'insulter. Ils m'ont invit\u00e9 \u00e0 venir au bar avec eux. \r\n\r\nLa rue \u00e9tait enti\u00e8rement vide. Il n' y avait personne aux alentours qui pouvait appeler au secours. J'ai march\u00e9 plus rapidement. Puis un d'entre eux a saisi ma main par derri\u00e8re. \r\n\r\nJ'ai paniqu\u00e9. J'ai jet\u00e9 sa main et j'ai couru. En tournant \u00e0 l'angle j'ai vu un magasin ouvert. J'ai couru plus rapidement que possible et j'y suis entr\u00e9e. D\u00e8s que je suis entr\u00e9e dans le magasin je le suis senti mieux. Je n'\u00e9tais pas seule et il y avais un commer\u00e7ant l\u00e0-bas. Il a appel\u00e9 mon fr\u00e8re, qui est venu me chercher. \r\n\r\nJ'essaierai de trouver un autre chemin pour rentrer chez moi et une amie pour m'accompagner. Je ne sais pas ce qui est arriv\u00e9 aux gar\u00e7ons, mais j'avais tr\u00e8s peur. Si j'avais une amie avec moi, je me sentirais plus en s\u00e9curit\u00e9.\r\n", 
+  "source": "7e28c971bde34657a6100b7a9b878307", 
+  "featured": false, 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "slug": "Faith", 
+  "uuid": "66265bcf27ae45b9891f893c349634aa"
+}
