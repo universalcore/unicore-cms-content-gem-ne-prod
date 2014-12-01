@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "Your body is changing", 
+  "description": "Votre corps change", 
   "language": "fre_FR", 
   "title": "QU'EST-CE QUE LA PUBERTE?", 
   "primary_category": "c63540b99f394f83b8029076d016710b", 
   "created_at": "2014-11-27T08:21:27+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2014-12-01T05:31:11.200774+00:00", 
+  "modified_at": "2014-12-01T05:59:31.145610+00:00", 
   "_version": {
     "package_version": "0.2.9", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
