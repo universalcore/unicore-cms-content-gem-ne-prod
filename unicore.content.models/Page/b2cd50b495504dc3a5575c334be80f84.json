@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "VOICI QUELQUES FAITS :", 
-  "language": "fre_SN", 
+  "language": "fre_FR", 
   "title": "AVEZ-VOUS COMMENCE A VOIR VOS REGLES ?  ", 
   "primary_category": "c63540b99f394f83b8029076d016710b", 
   "created_at": "2014-11-30T00:19:16+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2014-12-01T03:55:59.451391+00:00", 
+  "modified_at": "2014-12-01T05:31:10.881480+00:00", 
   "_version": {
     "package_version": "0.2.9", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -23,7 +23,7 @@
   "featured": false, 
   "image": null, 
   "published": null, 
-  "position": 9, 
+  "position": 2, 
   "image_host": "http://qa.thumbor.unicore.io", 
   "slug": "have-you-started-menstruating", 
   "uuid": "b2cd50b495504dc3a5575c334be80f84"
