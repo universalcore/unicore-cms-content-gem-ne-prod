@@ -1,17 +1,17 @@
 {
   "subtitle": "Je la fait garder le moral!", 
   "description": "Je la fait garder le moral!", 
-  "language": "fre_SN", 
+  "language": "fre_FR", 
   "title": "Ma meilleure amie est maladie ", 
   "primary_category": "bacd97a95386494abc571c419392c7d4", 
   "created_at": "2014-11-30T00:21:57.700257+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-11-30T00:21:57.700458+00:00", 
+  "modified_at": "2014-12-01T05:31:20.784580+00:00", 
   "_version": {
     "package_version": "0.2.9", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -21,7 +21,7 @@
   "featured": false, 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 1, 
   "image_host": "http://qa.thumbor.unicore.io", 
   "slug": "Rose", 
   "uuid": "0420fefe50ae4188992bfbd0846f7418"
