@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "", 
-  "language": "fre_SN", 
+  "language": "fre_FR", 
   "title": "D\u00e9claration", 
   "primary_category": null, 
-  "created_at": "2014-11-30T00:50:04.900328+00:00", 
+  "created_at": "2014-11-30T00:50:04+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-11-30T00:50:04.900581+00:00", 
+  "modified_at": "2014-12-01T11:03:48.348495+00:00", 
   "_version": {
     "package_version": "0.2.9", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -21,7 +21,7 @@
   "featured": false, 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 6, 
   "image_host": "http://qa.thumbor.unicore.io", 
   "slug": "declaration", 
   "uuid": "b4203a217fc448d3aee26e09e0a9a88d"
