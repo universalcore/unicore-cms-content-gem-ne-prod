@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "BIEN DES DROITS ", 
-  "language": "fre_SN", 
+  "language": "fre_FR", 
   "title": "\u00caTES-VOUS MALTRAITE ? ", 
   "primary_category": "c63540b99f394f83b8029076d016710b", 
   "created_at": "2014-11-27T07:43:21+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-01T04:20:50.010240+00:00", 
+  "modified_at": "2014-12-01T05:31:11.286710+00:00", 
   "_version": {
     "package_version": "0.2.9", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -23,7 +23,7 @@
   "featured": false, 
   "image": null, 
   "published": null, 
-  "position": 19, 
+  "position": 6, 
   "image_host": "http://qa.thumbor.unicore.io", 
   "slug": "are-you-being-treated-badly", 
   "uuid": "c6301eb19d8d47c3bace062a6b19577e"
