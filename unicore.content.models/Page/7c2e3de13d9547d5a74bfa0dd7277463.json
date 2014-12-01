@@ -1,27 +1,29 @@
 {
   "subtitle": "Apprendre \u00e0 g\u00e9rer mon cycle", 
   "description": "Apprendre \u00e0 g\u00e9rer mon cycle", 
-  "language": "fre_SN", 
+  "language": "fre_FR", 
   "title": "J'avais honte \u00e0 l'\u00e9cole", 
   "primary_category": "bacd97a95386494abc571c419392c7d4", 
   "created_at": "2014-11-30T00:15:29+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2014-12-01T04:24:23.774550+00:00", 
+  "modified_at": "2014-12-01T05:31:20.890973+00:00", 
   "_version": {
     "package_version": "0.2.9", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "b2cd50b495504dc3a5575c334be80f84"
+  ], 
   "id": null, 
   "content": "*Les filles du monde entier arrivent souvent \u00e0 leur cycle en 12 et 14 ans, mais elles peuvent y arriver plus t\u00f4t ou plus tard. Le fait d'arriver \u00e0 votre cycle peut \u00eatre surprenant ou effrayant. Voici l'histoire d'une fille.*\r\n\r\nJe m'appelle Deepa. J'ai 13 ans et j'habite en Inde. Je suis arriv\u00e9e \u00e0 mon cycle le moi pass\u00e9. Lorsque j'ai vu le sang dans mon slip j'\u00e9tais surprise, mais je n'avais pas peur parce que ma m\u00e8re m'avait dit que je commencerais ma p\u00e9riode \u00e0 l'\u00e2ge de 12 ans.\r\n \r\nJ'ai lav\u00e9 mon slip et j'en ai parl\u00e9 \u00e0 ma maman. Elle \u00e9tait si heureuse de se rendre compte que sa fille est devenue une femme ! Elle m'a donn\u00e9 un paquet de serviettes hygi\u00e9niques et m'a montr\u00e9 comment les mettre dans mon slip. C'\u00e9tait une nouvelle exp\u00e9rience pour moi mais je fus OK pendant toute la semaine.\r\n\r\nPuis, un mois plus tard j'\u00e9tais \u00e0 l'\u00e9cole. Le jour a commenc\u00e9 normalement jusqu'\u00e0 ce que je sente une dr\u00f4le de chose dans mon ventre. Je sentais que j'avais des crampes. Bien que je tombais malade et que je ne savais pas qu'il s'agissait d'un signe qui montre que je suis arriv\u00e9e \u00e0 ma p\u00e9riode. Ma p\u00e9riode est arriv\u00e9e ce jour et je n'\u00e9tais pas pr\u00eate.\r\n\r\nDans l'apr\u00e8s-midi j'ai quitt\u00e9 l'\u00e9cole parce que j'avais du sang sur ma jupe sur ma chaise.  Je pensais que tout monde a d\u00fb voir cela. J'\u00e9tais si g\u00ean\u00e9e. Je ne voulais plus retourner \u00e0 l'\u00e9cole.\r\n\r\nLorsque je suis arriv\u00e9e \u00e0 la maison ma m\u00e8re demand\u00e9 de m'asseoir et m'a fait savoir que la m\u00eame chose est arriv\u00e9e \u00e0 ma s\u0153ur.  Elle dit que nous pouvons nous assurer que cela ne se produirai plus parce que je peux suivre ma p\u00e9riode et savoir lorsque \u00e7\u00e0 va venir le mois prochain, parce que ma p\u00e9riode est de 28 jours. \r\n\r\n\r\nElle dit, \"Tu vas probablement avoir 5 jours de saignement au d\u00e9but de chaque cycle. Le cycle menstruel est compt\u00e9 entre 21 et 35 jours. Pour la plupart des femmes le cycle menstruel est de 21 \u00e0 35 jours. Nous allons le marquer sur votre calendrier\"\r\n\r\nJe suis retourn\u00e9e \u00e0 l'\u00e9cole le jour suivant et personne n'a prononc\u00e9 un mot sur cela.  Personne ne semble avoir remarqu\u00e9 ou fait attention de cela.  Ce fut une le\u00e7on dur \u00e0 apprendre pour moi, mais j'en suis si reconnaissante de ma maman, pour le calendrier et pour les autres informations. \r\n\r\n**As-tu d\u00e9j\u00e0 commenc\u00e9 commenc\u00e9 \u00e0 te mensturber? Voici quelques faits que vous devez savoir :**\r\n\r\n", 
   "source": "b49b0bc68ccf4e45a782899ce151974c", 
   "featured": false, 
   "image": null, 
   "published": null, 
-  "position": 12, 
+  "position": 2, 
   "image_host": "http://qa.thumbor.unicore.io", 
   "slug": "Deepa", 
   "uuid": "7c2e3de13d9547d5a74bfa0dd7277463"
