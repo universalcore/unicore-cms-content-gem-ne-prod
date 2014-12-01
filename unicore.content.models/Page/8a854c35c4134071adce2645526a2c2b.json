@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "VOICI COMMENT LE FAIRE", 
+  "description": "Voice comment le faire", 
   "language": "fre_FR", 
-  "title": "SOYEZ EN SECURITE ", 
+  "title": "Soyez en securite", 
   "primary_category": "c63540b99f394f83b8029076d016710b", 
-  "created_at": "2014-11-30T00:31:40.764923+00:00", 
+  "created_at": "2014-11-30T00:31:40+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-01T05:31:10.651309+00:00", 
+  "modified_at": "2014-12-01T06:39:41.184356+00:00", 
   "_version": {
     "package_version": "0.2.9", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
