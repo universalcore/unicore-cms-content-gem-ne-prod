@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "PARCE QUE LES ETUDES  PEUVENT VOUS DONNER UN AVENIR RADIEUX !", 
-  "language": "fre_SN", 
+  "language": "fre_FR", 
   "title": "POURQUOI TRAVAILLER DUR ? ", 
   "primary_category": "c63540b99f394f83b8029076d016710b", 
   "created_at": "2014-11-27T06:15:34+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-01T04:32:05.833510+00:00", 
+  "modified_at": "2014-12-01T05:31:11.543105+00:00", 
   "_version": {
     "package_version": "0.2.9", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -23,7 +23,7 @@
   "featured": false, 
   "image": null, 
   "published": null, 
-  "position": 25, 
+  "position": 9, 
   "image_host": "http://qa.thumbor.unicore.io", 
   "slug": "why-study-hard", 
   "uuid": "516b1cd36eba4ba7886c9cc6fccf4f17"
