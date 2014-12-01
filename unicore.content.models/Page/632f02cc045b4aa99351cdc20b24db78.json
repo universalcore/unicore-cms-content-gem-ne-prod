@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Apporter de l'int\u00e9grit\u00e9 au mannequinat", 
-  "language": "fre_SN", 
+  "language": "fre_FR", 
   "title": "Poursuivre mes r\u00eaves ", 
   "primary_category": "bacd97a95386494abc571c419392c7d4", 
   "created_at": "2014-11-27T05:58:31.409415+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-11-27T05:58:31.409592+00:00", 
+  "modified_at": "2014-12-01T05:31:21.518431+00:00", 
   "_version": {
     "package_version": "0.2.9", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -21,7 +21,7 @@
   "featured": false, 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 10, 
   "image_host": "http://qa.thumbor.unicore.io", 
   "slug": "Aurore", 
   "uuid": "632f02cc045b4aa99351cdc20b24db78"
