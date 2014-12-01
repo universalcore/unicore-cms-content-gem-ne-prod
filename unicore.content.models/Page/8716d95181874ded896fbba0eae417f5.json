@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "A ouvert mon monde et m'a donn\u00e9 la chance de gagner ma vie ", 
-  "language": "fre_SN", 
+  "language": "fre_FR", 
   "title": "Une rencontre", 
   "primary_category": "bacd97a95386494abc571c419392c7d4", 
   "created_at": "2014-11-27T05:50:26.961452+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-11-27T05:50:26.961629+00:00", 
+  "modified_at": "2014-12-01T05:31:21.611962+00:00", 
   "_version": {
     "package_version": "0.2.9", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -21,7 +21,7 @@
   "featured": false, 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 11, 
   "image_host": "http://qa.thumbor.unicore.io", 
   "slug": "Meenu", 
   "uuid": "8716d95181874ded896fbba0eae417f5"
