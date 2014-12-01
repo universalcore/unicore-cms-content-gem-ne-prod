@@ -4,24 +4,26 @@
   "language": "fre_SN", 
   "title": "NE VOUS SENTEZ PAS SEUL DANS LE MONDE ? ", 
   "primary_category": "c63540b99f394f83b8029076d016710b", 
-  "created_at": "2014-11-27T03:26:43.972679+00:00", 
-  "featured_in_category": false, 
-  "modified_at": "2014-11-27T03:26:43.973047+00:00", 
+  "created_at": "2014-11-27T03:26:43+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2014-12-01T03:54:53.199818+00:00", 
   "_version": {
     "package_version": "0.2.9", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "a87509ec843d479783d237080f963eeb"
+  ], 
   "id": null, 
   "content": "**NE VOUS SENTEZ PAS SEUL DANS LE MONDE ? VOICI COMMENT SE DEBROUILLER** \r\n\r\n - Vous pouvez vous sentir seul m\u00eame si tout semble allez vers vous. Peut-\u00eatre que vous \u00eates seul et que vous n'avez aucun choix dans cela, ou vous ne vous sentez pas faire partie d'un groupe ou \u00e9v\u00e9nement ou que personne ne vous comprend. Le fait de se sentir seul peut nous amener \u00e0 poser beaucoup de questions. Pourquoi c'est arriv\u00e9? Est-ce que c'\u00e9tait ma faute? \r\n - Souvent le fait de rester vous pousse \u00e0 vouloir vous retirer encore plus mais il se peut qu'il ait des gens qui essayent de vous atteindre. \r\n - Regrouper petit \u00e0 petit des amies et aimer les personnes autour de vous. Avoir des personnes \u00e0 qui vous pouvez parler vous aidera \u00e0 apprendre \u00e0 faire face \u00e0 votre d\u00e9ception et \u00e0 votre perte. Au fil du temps vous commencerez \u00e0 faire confiance au gens \u00e0 nouveau.\r\n - Trouvez un groupe d'appui. Fatuma a trouv\u00e9 Heshima Kenya et il existe d'autres groupes d'appui dans chaque pays du monde qui peuvent vous aider \u00e0 retrouver la vie que vous aviez avant.  Demandez dans une police, une \u00e9cole ou demandez \u00e0 un adulte que vous connaissez de vous aider \u00e0 en trouver.\r\n - Vous n'\u00eates pas seules. ce n'est pas tout le monde qui a de la famille et il existe d'autres filles comme vous. Vous pouvez d\u00e9velopper une relation forte et \u00e9troite en \u00e9tant un bon ami \u00e0 d'autres. \r\n\r\nEn savoir plus sur l'histoire de Fatuma sur  [grassrootsgirls.tumblr.com][1]\r\n\r\n  [1]: http://grassrootgirls.tumblr.com\r\n", 
   "source": "1fe011b11aec4cfbb9d62aba4cd5f434", 
   "featured": false, 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 29, 
   "image_host": "http://qa.thumbor.unicore.io", 
   "slug": "ne-vous-sentez-pas-seul-dans-le-monde", 
   "uuid": "5b86fa10e4ca4c65ac8264ad70a64c87"
