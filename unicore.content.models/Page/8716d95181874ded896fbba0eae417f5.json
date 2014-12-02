@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "Travail m'a donn\u00e9 une nouvelle chance dans la vie", 
+  "description": "Le travail m'a offert une voie de sortie", 
   "language": "fre_FR", 
-  "title": "Peur et coinc\u00e9 \u00e0 la maison", 
+  "title": "J'avais peur et \u00e9tais coinc\u00e9e \u00e0 la maison", 
   "primary_category": "bacd97a95386494abc571c419392c7d4", 
   "created_at": "2014-11-27T05:50:26+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-01T06:38:33.228836+00:00", 
+  "modified_at": "2014-12-02T08:31:17.641961+00:00", 
   "_version": {
     "package_version": "0.2.9", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
