@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "Votre corps change", 
+  "description": "Votre corps se transforme", 
   "language": "fre_FR", 
   "title": "Qu'est-ceque la Puberte? ", 
   "primary_category": "c63540b99f394f83b8029076d016710b", 
   "created_at": "2014-11-27T08:21:27+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2014-12-01T15:22:34.672160+00:00", 
+  "modified_at": "2014-12-02T08:35:01.778827+00:00", 
   "_version": {
     "package_version": "0.2.9", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
