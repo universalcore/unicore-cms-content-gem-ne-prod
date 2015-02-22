@@ -1,0 +1,28 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "fre_FR", 
+  "title": "Conseils d'utilisation ", 
+  "primary_category": null, 
+  "created_at": "2014-12-01T04:10:10+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-12-01T11:03:44.331193+00:00", 
+  "_version": {
+    "package_version": "0.2.9", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Il existe quelques r\u00e8gles de base que vous devez suivre pour vous assurer que vous et les autres soyez en s\u00e9curit\u00e9 et vous profitiez du site Web mobile Girl effect. Si vous ne respectez pas ces r\u00e8gles il est possible que vous receviez un avertissement, temporaire ou une interdiction permanante. Les r\u00e8gles sont les suivantes :\r\n\r\n - Le harc\u00e8lement et l'intimidation des autres ne seront pas tol\u00e9r\u00e9s\r\n - Respecter les jeunes utilisateurs et ne pas utiliser un langage mauvais, impoli ou offensif ou sugg\u00e9rer des liens vers une documentation obsc\u00e8ne et offensive. \r\n - Ne pas divulger vos renseignements personnelles. Ne jamais donner aux gens :\r\n           \r\n       - votre vrai nom (configurez un surnom)\r\n       - votre \u00e2ge\r\n       - votre adresse,\r\n       - le nom de votre \u00e9cole,\r\n       - votre adresse e-mail ou votre num\u00e9ro de t\u00e9l\u00e9phone, ou\r\n       - toute information financi\u00e8re ou vos mots passe.\r\n\r\n - Eviter de rencontrer des personne que vous avez trouv\u00e9 sur internent.  Mais si vous vous \u00eates rencontr\u00e9s assure\u00e9-vous que \u00eates avec un adulte, ou votre parent ou tuteur.\r\n\r\nSi vous avez 13 ans il vous est interdit d'utiliser ces services \u00e0 moins que votre parent ou tuteur vous autorise \u00e0 utiliser ces services sous leur contr\u00f4le. Le site Web mobil GirlEffect convient aux utilisateurs \u00e2g\u00e9s de 13 et plus.", 
+  "source": "24785d7bf8fc4ca4bfd9dd288539cc83", 
+  "featured": false, 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "slug": "tips", 
+  "uuid": "f969c43b8fef48279d41a177e5419113"
+}

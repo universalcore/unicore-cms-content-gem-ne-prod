@@ -1,0 +1,23 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "description": "Smart girls have power!", 
+        "language": "eng_UK", 
+        "title": "I brought light to my whole village", 
+        "primary_category": "f9a28362218b45d482c7f13fce2ecf34", 
+        "created_at": "2014-10-07T12:24:09+00:00", 
+        "featured_in_category": false, 
+        "modified_at": "2014-10-12T08:47:15.001801+00:00", 
+        "linked_pages": [
+            "f3712b13213548548f85465f304ceaab"
+        ], 
+        "slug": "Eugenie", 
+        "content": "*Some people think there are jobs a woman can\u2019t do! Some countries even have laws to control this. This is one girl\u2019s story.*\r\n\r\nMy name is Eugenie, I am 18 and I live in Rwanda. The start of my story is sad - my dad and siblings died leaving my mom and me alone.  My mom is amazing.  Despite hard times, she showed me how to rely on myself and to work hard.  She is my hero. Then I got a chance to give something back to her!\r\n\r\nWhen I was in primary school, we didn\u2019t have electricity at home. It made chores and homework really hard. I struggled doing homework in the dim light of a candle. I started dreaming about how great it would be to bring light to my home. For the next year it was all I thought about. I dreamt of being an electrician. I wanted to show that I could study hard and do well \u2013 even better than the boys at school!   I could be the one bringing light to our village.\r\n\r\nEventually I spoke to an electrician in the city. He taught me how to connect wires to a battery and produce electricity. After a bit of coaching, I got it right! \r\n\r\nWhen our neighbors saw what I had done they also wanted electricity in their homes. I was able to do the same things, get them electricity and charge them a small amount to light up their homes too. The money I earned being the community\u2019s electrician went towards my school fees.  \r\n\r\nToday I\u2019m in my fifth year studying electrical engineering at a really good college in Rwanda. \r\n\r\nMy advice to girls is to learn as much as you can when you are in school.  There is no such thing as jobs that are just for men. It\u2019s important for girls to study technical subjects too! Women make great scientists, engineers and researchers. So if that is something that interests you, then study hard and don\u2019t give up. Together we can make the world a better place!\r\n\r\n**Why study hard? Read this article to find out:**", 
+        "source": null, 
+        "featured": true, 
+        "published": true, 
+        "position": 0, 
+        "id": "bcd944ba380f440c809ec53c0c152581"
+    }, 
+    "model": "GitPageModel"
+}

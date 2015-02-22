@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Here's how to cope", 
+  "language": "eng_GB", 
+  "title": "Do you feel alone in the world?", 
+  "primary_category": "a411e913f1c84d479befbd6af6024965", 
+  "created_at": "2014-10-08T15:40:29+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2014-12-03T12:33:24.477970+00:00", 
+  "_version": {
+    "package_version": "0.2.5", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "0ad994f428fa4a7faa2c8b68e734a58d"
+  ], 
+  "id": "1fe011b11aec4cfbb9d62aba4cd5f434", 
+  "content": "** DO YOU FEEL ALONE IN THE WORLD? HERE\u2019S HOW TO COPE ** \r\n\r\n  * You can feel lonely even if everything seems to be going your way. Maybe you are alone and have no choice in this, or you don\u2019t feel part of a group or an event - or you just don\u2019t have anyone who understands you. Feeling alone can leave you with a million questions. Why did it happen? Was it my fault? \r\n  * Often being lonely makes you want to withdraw even more but there could be people trying to reach out to you. \r\n  * Slowly gather supportive friends and loving people around you. Having people in your life that you can talk to will help you learn to cope with your disappointment and loss. Over time you will start to trust people again.\r\n  * Find a support group. Fatuma found Heshima Kenya and there are other support groups in every country in the world that can help you get your life back together. Ask at a police station, school or ask an adult you know to help you find one.\r\n  * You are not alone. Not everyone has a family and there are other girls like you. You can build strong and close relationships by being a good friend to others.\r\n \r\nIn recent years refugees from Somalia, Sudan, Ethiopia and the Democratic Republic of Congo fled from violence in their countries and arrived in Kenya.\r\n\r\nRead more about Fatuma\u2019s story at [grassrootsgirls.tumblr.com][1]grassrootsgirls.tumblr.com. \r\n\r\n\r\n  [1]: http://grassrootgirls.tumblr.com\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": true, 
+  "position": 64, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "slug": "do-you-feel-alone-world", 
+  "uuid": "1fe011b11aec4cfbb9d62aba4cd5f434"
+}

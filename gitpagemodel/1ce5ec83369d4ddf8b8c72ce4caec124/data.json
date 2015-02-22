@@ -1,0 +1,23 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "description": "", 
+        "language": "swh_TZ", 
+        "title": "Jilinde", 
+        "primary_category": "4a1dda90e331498ebbc48175ad13f386", 
+        "created_at": "2014-10-24T18:19:08+00:00", 
+        "featured_in_category": true, 
+        "modified_at": "2014-10-28T10:10:48.560612+00:00", 
+        "linked_pages": [
+            "5dbbfc56468148b59db98cfb4e73dc72"
+        ], 
+        "slug": "jilinde", 
+        "content": "**JILINDE** \r\n\r\n<p> Kwa bahati mbaya, dunia yetu si salama kila wakati - haswa kwa wasichana na wanawake wachanga. Unyanyasaji wa mapenzi unaweza kuwatokea wasichana nyumbani, shuleni, sokoni, kazini kwao, au mahali popote. Unahitaji kuwa tayari na kujiandaa kwa hali hizi. </p>\r\n\r\nHivi hapa ni baadhi ya vitu unavyoweza KUFANYA kukusaidia kujilinda:\r\n\r\n<ul>\r\n<li>Epuka maeneo hatari: Iwapo unajua kuwa sehemu nyingine unayoombwa kuenda ina hatari ya kimwili au nyingine - jaribu kuepuka kuenda hapo kama unaweza. </li>\r\n<li>Tumia mfumo wa kirafiki tembea karibu na maeneo ya umma na rafiki mmoja au zaidi - usiende peke yako!  </li>\r\n<li>Pata mwelekezi wa kuaminika: Iwapo unajihisi kutokuwa salama katika sehemu fulani au nyakakati fulani (kama kutembea kuelekea au kutoka shuleni), lakini ni LAZIMA UENDE, mwombe mtu unayemwamini akusindikize..</li>\r\n<li>Mwambie mtu mwingine kila wakati/mahali unapoenda na utakaporudi. Ikiwezekana, mwambie mtu akulaki unakoelekea. Kwa kufanya hivi, kitu kikitendeka, wengine watajua na wanaweza kuchukua hatua.</li>\r\n<li>WAAMBIE watu wazima mambo yanapokutokea au marafiki zako - na uwahimize wasaidie kuhakikisha kuwa hali zimeshughulikiwa na hazitendeki tena!</li>\r\n<li>WEKA MPANGO: Tafuta mtu mzima anayeaminika unayeweza kuenda kwake tatizo\r\nlikitokea. Hakikisha kuwa unafahamu pa kumpata mtu huyu au namna ya kuwasiliana naye unapohitaji usaidizi. Piga gumzo na marafiki zako wengine kuhusu kupata watu unaoweza kuamini na kulindana.\r\n</li>\r\n<p> \r\n\r\n</ul>\r\n**Wasichana na wanawake wengi nchini India wanatarajiwa kusalia nyumbani tofauti na wakiwa nje kwa sababu ya usalama wao. Lakini wasichana wengi zaidi wanapata ujasiri wa kulibadilisha hilo. Hiki ni kisa cha msichana mmoja.** ", 
+        "source": null, 
+        "featured": false, 
+        "published": true, 
+        "position": 0, 
+        "id": "1ce5ec83369d4ddf8b8c72ce4caec124"
+    }, 
+    "model": "GitPageModel"
+}

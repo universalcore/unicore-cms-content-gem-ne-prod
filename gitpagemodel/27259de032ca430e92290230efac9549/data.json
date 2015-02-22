@@ -1,0 +1,23 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "description": "Zifaye zitimie! ", 
+        "language": "swh_TZ", 
+        "title": "Una ndoto? ", 
+        "primary_category": "4a1dda90e331498ebbc48175ad13f386", 
+        "created_at": "2014-10-24T07:42:19+00:00", 
+        "featured_in_category": true, 
+        "modified_at": "2014-10-28T06:45:01.736942+00:00", 
+        "linked_pages": [
+            "cbb27ca428de4dada168319f6bc3014d"
+        ], 
+        "slug": "una-ndoto", 
+        "content": "**UNA NDOTO? ZIFANYE ZITIMIE!** \r\n\r\n<ul>\r\n<li>Ikiwa una lengo la wazi akilini, watafute watu ambao wamefanikiwa katika uwanja huo huo. Waulize namna ya kuifanya itimie.  </li>\r\n<li>Soma kila kitu unachoweza kuhusu watu waliofanikiwa katika uwanja wako. Fahamu kuhusu safari ambazo wamekuwa nazo na machaguo ambayo wameyafanya.  </li>\r\n<li>Tafuta mpango wa mafunzo au kilabu cha wasichana kinachoweza kukusaidia kujifunza kutumia bajeti, kuweka akiba, na usimamizi wa hela. Ujuzi huu unatumika maishani milele. .</li>\r\n<li>Usiogope kufanya makosa unapoendelea. Jifunze kutokana na makosa hayo badala yake. Yatakufanya kuwa imara zaidi.</li>\r\n<li>Amini malengo yako na uendelee kumotishwa. Kubali kuwa kunaweza kuwa na nyakati ngumu. Lakini fahamu kuwa unaweza kutimiza mambo makubwa maishani! </li>\r\n<p> \r\nAurore  anaishi nchini Rwanda.Amekuwa akikimbiza ndoto yake ya kuanzisha biashara yake mwenyewe. Soma hadithi yake hapa:\r\n</ul>", 
+        "source": "c0412b37734449e5a60d6e3a43399f4c", 
+        "featured": false, 
+        "published": true, 
+        "position": 11, 
+        "id": "27259de032ca430e92290230efac9549"
+    }, 
+    "model": "GitPageModel"
+}

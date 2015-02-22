@@ -1,0 +1,22 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "description": "Here are some facts", 
+        "language": "eng_UK", 
+        "title": "Have you started menstruating?", 
+        "primary_category": "a411e913f1c84d479befbd6af6024965", 
+        "created_at": "2014-10-08T15:31:33+00:00", 
+        "featured_in_category": true, 
+        "modified_at": "2014-10-09T11:42:13.085298+00:00", 
+        "linked_pages": [
+            "b49b0bc68ccf4e45a782899ce151974c"
+        ], 
+        "slug": "have-you-started-menstruating", 
+        "content": "**HAVE YOU STARTED MENSTRUATING?  HERE ARE SOME FACTS:**\r\n\r\n - Every month your ovaries release an egg, and the lining of your uterus (womb) thickens to get ready in case that egg gets fertilized (in other words, when you get pregnant). If the egg is not fertilized that month, this thick lining breaks down and come out over a few days \u2014that\u2019s your period. \r\n - Once you start menstruation your body is able become pregnant and have a baby if you have sex. You must make sure you protect yourself from getting pregnant if you are not ready to have a baby.\r\n - It is normal to have some cramps in the stomach during menstruation. It helps to place a warm water bag on your stomach. It is better to do light exercise like walking around than to stay in one place. If the pain is too much, please consult a doctor. \r\n - If sanitary napkins are not available and you use a cloth, make sure that the cloth is soft, cleaned and dried properly.\r\n - When you do not get your period, your body is sending you a message, so pay attention. Try to eat healthy foods and get lots of sleep. If you don\u2019t get your period for a few months, you should go see a nurse or a doctor. \r\n\r\n**Girls all around the world usually get their period between 12 - 14 years old, but they can start earlier or later. Getting your period can be surprising or scary. This is one girl\u2019s story.**\r\n", 
+        "source": null, 
+        "featured": false, 
+        "published": true, 
+        "id": "cc4732e92c2e46b2869509b918eba825"
+    }, 
+    "model": "GitPageModel"
+}

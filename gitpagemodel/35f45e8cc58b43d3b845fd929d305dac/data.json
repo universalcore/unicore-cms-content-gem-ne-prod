@@ -1,0 +1,23 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "description": "Basi kuwa rafiki mzuri kwa wengine", 
+        "language": "swh_TZ", 
+        "title": "Unataka marafiki? ", 
+        "primary_category": "4a1dda90e331498ebbc48175ad13f386", 
+        "created_at": "2014-10-24T09:09:35+00:00", 
+        "featured_in_category": true, 
+        "modified_at": "2014-10-28T10:24:09.678029+00:00", 
+        "linked_pages": [
+            "1a881054d4e64c1c92174b0d487db7e8"
+        ], 
+        "slug": "unataka-marafiki", 
+        "content": "**UNATAKA MARAFIKI? BASI KUWA RAFIKI MZURI KWA WENGINE** \r\n\r\nMarafiki wanafanya maisha kuwa ya raha na kushiriki mzigo wa shida zako. Haijalishi una marafiki wangapi. Muhimu zaidi ni kuwa rafiki mzuri kwa watu unaowajali. Kuna njia nyingi sana za kuwa rafiki mzuri! Haya hapa ni baadhi ya mawazo:\r\n\r\n - Kanuni msingi ni kufikiria kuhusu kile ambacho unaweza kutaka na kuhitaji kutoka kwa rafiki - na uwafanyie hivyo marafiki zako. \r\n - Wasikilize marafiki zako na uheshimu maoni ya wengine - hata kama mawazo yao yanatofautiana na yako.\r\n - Wakubali marafiki zako walivyo. Marafiki wazuri hawakosoi marafiki zao kila mara au kujaribu kuwabadilisha. Washukuru marafiki zako kwa namna walivyo na uwatendee namna ambavyo ungetaka wakutendee.\r\n - Kuwa mtu wa kuelewa na kusamehe.  Jichukulie kama marafiki zako - sote hufanya makosa.\r\n - Kuwa wa kuaminika. Huku ni kumaanisha kufanya unachosema utafanya na kutowaendea wenzako kinyume. Kutoshiriki siri wanazokuambia marafiki zako, isipokuwa wawe hatarini. Ikiwa wamo hatarini na wanahitaji usaidizi, tafuta mtu mzima unayemwamini kuzungumza naye.\r\n\r\n**Marafiki ni muhimu sana. Ni watu watakaokusikiliza na kuzihifadhi siri zako. Lakini kujua namna ya kuwa rafiki mzuri kwa kawaida si rahisi. Hiki ni kisa cha msichana mmoja.** ", 
+        "source": null, 
+        "featured": false, 
+        "published": true, 
+        "position": 5, 
+        "id": "35f45e8cc58b43d3b845fd929d305dac"
+    }, 
+    "model": "GitPageModel"
+}

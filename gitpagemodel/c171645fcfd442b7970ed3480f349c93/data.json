@@ -1,0 +1,23 @@
+{
+    "fields": {
+        "subtitle": "Wasichana wana nguvu!", 
+        "description": "Wasichana wana nguvu!", 
+        "language": "swh_TZ", 
+        "title": "Niliuleta mwanga kijijini kwangu", 
+        "primary_category": "93d5b8b8586b45f590d4d05c5c261814", 
+        "created_at": "2014-10-24T07:47:22+00:00", 
+        "featured_in_category": true, 
+        "modified_at": "2014-10-28T06:45:23.447857+00:00", 
+        "linked_pages": [
+            "fc09349926624fd38240eb581f9716b0"
+        ], 
+        "slug": "niliuleta-mwanga-kijijini-kwangu", 
+        "content": "*Watu wengine wanadhani kuwa kuna kazi wasizoweza kufanya wanawake! Nchi nyingine hata zina sheria za kudhibiti hili. Hiki ni kisa cha msichana mmoja.*\r\n\r\nJina langu ni Eugenie, nina miaka 18 na ninaishi nchini Rwanda. Mwanzo wa kisa changu ni chenye huzuni - baba yangu na ndugu zangu waliiaga dunia na kutuacha mimi na mama yangu peke yetu.  Mama yangu ni wa ajabu sana.  Licha ya nyakati ngumu, alinionyesha namna ya kujitegemea na kutia bidii.  Ni shujaa wangu. Kisha nikapata nafasi ya kumrejeshea shukrani!\r\n\r\nNilipokuwa katika shule ya msingi, hatukuwa na umeme nyumbani. Ilifanya kazi za nyumbani na kazi nyingine ngumu zaidi. Niling'ang'ana kufanya kazi ya ziada kwa mwangaza hafifu wa mshumaa. Nilianza kuota kuhusu namna ambavyo ingalikuwa furaha kuuweka umeme nyumbani.  Ndilo jambo nililofikiria mwaka uliofuatia. Niliota kuwa mhandisi wa umeme. Nilitaka kuonyesha kuwa ningalisoma kwa bidii na kufanya vyema \u2013 hata vyema zaidi kuliko wavulana walio shuleni!   Ninaweza kuleta umeme kijijini mwetu.\r\n\r\nHatimaye nilizungumza na mhandisi wa umeme mjini. Alinifunza namna ya kuunganisha nyaya kwenye betri na kuzalisha umeme. Baada ya mafunzo kidogo, nilifaulu! \r\n\r\nJirani zetu walipoona nilichokuwa nimekifanya pia wakataka umeme nyumbani kwao. Niliweza kufanya vitu hivyo sawa, kuwawekea umeme na kuwatoza hela kidogo ili kupata mwangaza nyumbani kwao pia. Hela nilizopata kwa kuwa mhandisi wa umeme kijijini zilitumika kulipia karo yangu.  \r\n\r\nLeo hii niko kwenye mwaka wangu wa tano nikisomea uhandisi umeme kwenye chuo kikuu kizuri nchini Rwanda. \r\n\r\nUshauri wangu kwa wasichana ni kusoma zaidi uwezavyo unapokuwa shuleni.  Hakuna kazi za wanaume pekee. Ni muhimu kwa wasichana kusoma masomo ya kiufundi pia! Wanawake huwa wanasayansi, wahandisi na watafiti bora sana, Kwa hivyo ikiwa hicho ni kitu kinachokuvutia, basi soma kwa bidii na usikate tamaa. Kwa pamoja tunaweza kuufanya ulimwengu kuwa mahali pazuri!\r\n\r\nKwa nini usome kwa bidii?Soma makala hii iliujue:", 
+        "source": "bcd944ba380f440c809ec53c0c152581", 
+        "featured": false, 
+        "published": true, 
+        "position": 10, 
+        "id": "c171645fcfd442b7970ed3480f349c93"
+    }, 
+    "model": "GitPageModel"
+}
