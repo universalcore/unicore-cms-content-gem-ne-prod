@@ -1,0 +1,30 @@
+{
+  "subtitle": "", 
+  "description": "\u00c9loignez-vous des germes\r\n", 
+  "language": "fre_FR", 
+  "title": "Comment \u00e9viter de tomber malade", 
+  "primary_category": "c63540b99f394f83b8029076d016710b", 
+  "created_at": "2014-11-30T00:24:25+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-12-02T08:36:20.266810+00:00", 
+  "_version": {
+    "package_version": "0.2.9", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "0420fefe50ae4188992bfbd0846f7418"
+  ], 
+  "id": null, 
+  "content": "**Comment \u00e9viter de tomber malade?**\r\n\r\n - La plupart des germes viraux propagent dans l'air par les \u00e9ternuements ou les toux. Les germes peuvent se propager dans la sueur la salive et le sang. Certaines se transmettent d'une personne \u00e0 une autre en touchant quelque chose qui est contamin\u00e9e, comme le fait de serrer la main avec quelqu'un qui a un rhume et le fait de toucher votre nez. Si un de vos parents est malade, couvrez votre bouche et restez loin de lui si possible. Si  vous \u00eates dans un espace ferm\u00e9, essayez d'ouvrir une fen\u00eatre pour laisser l'air frais entrer et faire sortir les germes.\r\n - LAVEZ-VOUS LES MAINS ! Rappelez-vous que les germes ont peur du savon et de l'eau. Se laver les mains souvent est la meilleure mani\u00e8re de combattre les germes Restez fort et en bonne sant\u00e9 en mangeant bien, en faisant du sport r\u00e9guli\u00e8rement et prenant de la bonne nourriture. Tout cela vous permet d'\u00eatre en mesure de lutter contre les germes qui peuvent vous rendre malade. \r\n - Ma tuberculose (TB) est une maladie caus\u00e9e par de minuscules bact\u00e9ries (germes). Les bact\u00e9ries de la TB sont d\u00e9pos\u00e9es dans air lorsqu'une personne atteinte de TB tousse, \u00e9ternue, parle, ou chante. Les personnes qui vivent \u00e0 c\u00f4t\u00e9 de vous peuvent respirer ces bact\u00e9ries et \u00eatre infect\u00e9es. Quelques uns des signes que vous pouvez remarquer si vous l'avez attrap\u00e9 sont :  Les sueurs nocturnes. Se sentir faible et fatigu\u00e9.  Un toux continu (qui dur au moins trois semaines). Du sang lorsque vous tousser. Des douleurs dans la poitrine. Un bruit sonore lorsque vous respirez. Des probl\u00e8mes de respiration. Si vous vous sentez bizarre ou que vous pensez qu'il y a quelque chose qui ne va pas, n'attendez pas. Rendez-vous directement au poste de sant\u00e9, \u00e0 la clinique ou \u00e0 l'h\u00f4pital le plus proche.\r\n", 
+  "source": "849637d358b045f59864b28eb84e431f", 
+  "featured": false, 
+  "image": null, 
+  "published": null, 
+  "position": 1, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "slug": "how-avoid-getting-sick", 
+  "uuid": "30cefe05d6fd420185a34ff4cd0ae3f4"
+}

@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "You do have rights", 
+  "language": "eng_GB", 
+  "title": "Are you being treated badly?", 
+  "primary_category": "a411e913f1c84d479befbd6af6024965", 
+  "created_at": "2014-10-08T15:37:50+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-12-03T12:33:26.605929+00:00", 
+  "_version": {
+    "package_version": "0.2.5", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "36b2957c75ec471d82d456d077b9c76c"
+  ], 
+  "id": "47260361e5c6462abdb32b5658f52aef", 
+  "content": "**ARE YOU BEING TREATED BADLY? YOU DO HAVE RIGHTS** \\- In many countries women and girls have the same rights as men according to the law, and are regarded as equals in all aspects. But this isn\u2019t always practiced at home. \\- You have the right to be treated with respect and to be safe and secure in your home. If this isn\u2019t the case then speak to someone you trust like a teacher or village leader. A problem shared can be a burden lifted. \\- If someone older tries to scare you by shouting at you or hurting you, it can be can be abuse and is wrong. Find an adult you trust to help you. \\- There is nothing more traumatic for a child than losing a parent \u2013 never mind both. Growing up without parents or a caring adult looking after you can mean you are more at risk of harm. But you still have the right to education and healthcare. \n\nWhen Preity was young she lived with her aunt and uncle. They made her believe\nthey had the right to beat and mistreat her. This is her story:\n\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": true, 
+  "position": 64, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "slug": "are-you-being-treated-badly", 
+  "uuid": "47260361e5c6462abdb32b5658f52aef"
+}
