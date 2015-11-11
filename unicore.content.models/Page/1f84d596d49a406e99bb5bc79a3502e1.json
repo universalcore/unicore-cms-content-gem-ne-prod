@@ -6,23 +6,24 @@
   "primary_category": null, 
   "created_at": "2014-11-30T00:54:23+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-01T11:03:46.842228+00:00", 
+  "modified_at": "2015-11-11T22:26:29.922983+00:00", 
   "_version": {
     "package_version": "0.2.9", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
   "id": null, 
-  "content": "L'id\u00e9e de Girl Effect a \u00e9t\u00e9 initi\u00e9 lorsque qu'un groupe de personnes se sont rendu compte que, si on leur accorde la chance, les filles peuvent \u00eatre la force la plus puissante pour le changement sur la plan\u00e8te. Elles ont propag\u00e9 le message et maintenant beaucoup de gens, y compris les personnes puissantes, croient que les filles ont le potentiel afin de mettre fin \u00e0 la pauvret\u00e9 pour elles-m\u00eames, leurs familles, leurs communaut\u00e9s et enfin le monde entier.  Puisque plus de gens sont de plus en plus conscients de la force des filles, Girl Effect a d\u00e9pass\u00e9 une id\u00e9e pour devenir un mouvement.  aujourd'hui beaucoup de gens sont en train de rejoindre Girl Effect et nous esp\u00e9rons que vous pouvez vous joindre \u00e0 nous.\r\n\r\nEn savoir plus sur [girleffect.org][1]\r\n\r\n\r\n  [1]: http://girleffect.org", 
+  "content": "L'id\u00e9e de Girl Effect a \u00e9t\u00e9 initi\u00e9 lorsque qu'un groupe de personnes se sont rendu compte que, si on leur accorde la chance, les filles peuvent \u00eatre la force la plus puissante pour le changement sur la plan\u00e8te. Elles ont propag\u00e9 le message et maintenant beaucoup de gens, y compris les personnes puissantes, croient que les filles ont le potentiel afin de mettre fin \u00e0 la pauvret\u00e9 pour elles-m\u00eames, leurs familles, leurs communaut\u00e9s et enfin le monde entier. Puisque plus de gens sont de plus en plus conscients de la force des filles, Girl Effect a d\u00e9pass\u00e9 une id\u00e9e pour devenir un mouvement. Aujourd'hui beaucoup de gens sont en train de rejoindre Girl Effect et nous esp\u00e9rons que vous pouvez vous joindre \u00e0 nous.\r\n\r\nEn savoir plus sur [girleffect.org][1]\r\n\r\n\r\n  [1]: http://girleffect.org", 
   "source": "6cd055c5836d45afa328d148e32372f8", 
   "featured": false, 
+  "author_tags": [], 
   "image": null, 
   "published": null, 
   "position": 5, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "about", 
   "uuid": "1f84d596d49a406e99bb5bc79a3502e1"
 }
