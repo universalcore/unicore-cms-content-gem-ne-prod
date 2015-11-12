@@ -1,17 +1,17 @@
 {
-  "subtitle": "", 
-  "description": "Parce que le etudes peuvent vous donner un avenir radieux!", 
+  "subtitle": "Parce que les \u00e9tudes nous garantissent un avenir radieux !", 
+  "description": "Parce que les \u00e9tudes nous garantissent un avenir radieux !", 
   "language": "fre_FR", 
   "title": "Pourquoi travailler dur \u00e0 l\u2019\u00e9cole ?", 
   "primary_category": "c63540b99f394f83b8029076d016710b", 
   "created_at": "2014-11-27T06:15:34+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-11-11T22:22:22.472980+00:00", 
+  "modified_at": "2015-11-12T17:50:42.107661+00:00", 
   "_version": {
     "package_version": "0.2.9", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
