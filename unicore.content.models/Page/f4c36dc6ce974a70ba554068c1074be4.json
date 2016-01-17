@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "eng_GB", 
+  "title": "Spam, Scams, Viruses! What are they?", 
+  "primary_category": "a411e913f1c84d479befbd6af6024965", 
+  "created_at": "2016-01-17T05:33:49.718535+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2016-01-17T05:33:49.718744+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "*Dear Ms. Tech,*\r\n\r\n*Can you explain to me what a computer virus is? Is a virus the same as spam? I\u2019m not sure what those two things mean, I just know they are both bad!*\r\n\r\n*Sincerely,*\r\n\r\n*Girl in Xtown*\r\n\r\nDear Girl in XTown,\r\n\r\nA computer virus can invade your phone or computer just like a sickness attacks your body. A virus normally invades your mobile or computer without your knowledge. It can make your device do things against your will, such as sending out emails in your name! Viruses can even make your device shut down, causing you to lose anything you may have stored like pictures, music or games. \r\n\r\nViruses are normally passed from computer to computer -- or phone to phone -- through files or links. So the best way to prevent a virus from attacking your mobile or computer is to avoid sharing files and opening links from unknown sources.\r\n\r\nFor your computer you can install an anti-virus or virus protection software. Sometimes Internet Cafe owners do not do this however and their computers can spread viruses. Virus protection is not normally available for mobiles.  So with a mobile, try to avoid sharing files through bluetooth or clicking on links that seem suspicious.\r\n\r\nIf you receive something from a friend that seems strange on Facebook or email, it could be that his or her account has been infected. If a link or post seems suspicious, ask your friend if he or she actually sent it before clicking on it \r\n\r\nViruses can also cause your social media or email accounts to send out \u201cspam\u201d to all your friends. Spam refers to inappropriate messages sent via the Internet to a large number of people. These might be scams or advertising links or pornography. If your computer or mobile has a virus, the virus may start sending out spam emails or messages, and that can be really embarrassing.\r\n\r\nSo it\u2019s important to be sure about what a link before you click on it to avoid loading a virus onto your mobile or computer. If your mobile or computer starts acting strange, go to a computer or mobile phone store for help as soon as possible!\r\n\r\nBe careful what you click on!\r\n\r\nLove, Ms. Tech\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "spam-scams-viruses-what-are-they", 
+  "uuid": "f4c36dc6ce974a70ba554068c1074be4"
+}
