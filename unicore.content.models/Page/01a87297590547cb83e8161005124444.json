@@ -4,14 +4,14 @@
   "language": "eng_GB", 
   "title": " How to save with a friend! ", 
   "primary_category": "a411e913f1c84d479befbd6af6024965", 
-  "created_at": "2016-01-17T05:38:54.570510+00:00", 
+  "created_at": "2016-01-17T05:38:54+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2016-01-17T05:38:54.570707+00:00", 
+  "modified_at": "2016-01-17T05:39:06.527091+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
