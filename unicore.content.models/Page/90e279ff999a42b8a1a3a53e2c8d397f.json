@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": " Take our quiz to see how money smart you are!", 
+  "language": "eng_GB", 
+  "title": " Are you a super saver?", 
+  "primary_category": "a411e913f1c84d479befbd6af6024965", 
+  "created_at": "2016-01-17T05:53:17.303692+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2016-01-17T05:53:17.303869+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Answer these eight questions to see if you\u2019re a super spender \u2013 or a\r\nsuper saver.\r\n     \r\n1. You get money for your birthday, you\u2026\r\n           A) Immediately spend it on a fun outing with friends.\r\n           B) Put it in your bank account or store it away safely where nobody    will find it. \r\n       \r\n2. You\u2019re at the market and you\u2019re down to the last bit of money you have saved this month when you see that a t-shirt you\u2019ve been  eyeing has been reduced. What do you do?\r\n           A) Buy it. After all, savings are there to be spent!\r\n           B) Negotiate with the shop owner and get an even lower price.\r\n\r\n3. You make decisions about spending based on\u2026\r\n           A) Your feelings. When you\u2019re sad, nothing feels better than a little    treat.\r\n           B) The plans you\u2019ve made for how you want to spend the money in the    future.  \r\n    \r\n4. For you, money means\u2026\r\n           A) Enjoyment and pleasure.\r\n           B) Having a stable future.\r\n\r\n5. When you have lots of loose coins in your purse, you\u2026\r\n           A) Spend them \u2013 they\u2019re not worth much anyway.\r\n           B) Add them to your savings \u2013 every little bit counts.\r\n\r\n6. Do you often owe friends or family members money?\r\n           A) Often \u2013 borrowing money isn\u2019t a big deal.\r\n           B) Not often \u2013 I don\u2019t like owing people money.\r\n\r\n7. Do you keep track of how you spend your money, by writing purchases down or keeping receipts?\r\n           A) No.\r\n           B) Yes.\r\n\r\n8. Which would you rather do?\r\n           A) Spend now, save later.\r\n           B) Save now, spend later.   \r\n\r\n\r\nNow add up how many times you answered A and how many times you went with B. Click here to see your answers", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "are-you-super-saver", 
+  "uuid": "90e279ff999a42b8a1a3a53e2c8d397f"
+}
