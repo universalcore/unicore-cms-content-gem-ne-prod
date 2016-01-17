@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "eng_GB", 
+  "title": "Help! My facebook was hacked!", 
+  "primary_category": "a411e913f1c84d479befbd6af6024965", 
+  "created_at": "2016-01-17T05:34:26.898036+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2016-01-17T05:34:26.898279+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "*My Facebook account is sending out strange messages and I don\u2019t know why. It is sending things that are not from me. My friends say that my account was hacked. How can I stop it?*\r\n\r\n*Sincerely,*\r\n\r\n*Hacked and Unhappy*\r\n\r\n\r\nDear Hacked and Unhappy,\r\n\r\nOh dear, it sounds like your account was hacked. In other words, someone has gotten into your account and is posting messages on your behalf, pretending to be you. Sometimes this happens when you forget to sign out of your account at an Internet cafe. It can also happen if you let a friend borrow your mobile phone. Sometimes it\u2019s professional hackers who can log into lots of accounts using very advanced techniques.\r\n\r\nHackers (whether they are friends or strangers) post from your page or account without your control. Sometimes friends do this to be funny, but it\u2019s important to try re-gain control of your account as soon as you can!\r\n\r\nOn most social media sites like Facebook and Twitter you can report when your account has been hacked. If it was done by friends playing a practical joke, just change your password and that might also solve the problem. \r\n\r\nAlways remember to log out from your account and keep your password safe, whether you are logging in from an internet cafe or a friend\u2019s mobile. It might seem unnecessary, but it can protect you from someone posting things on your behalf that could embarrass or damage you.\r\n\r\nGood luck resolving the hacking issue! \r\n\r\nLove, Ms.Tech \r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "help-my-facebook-was-hacked", 
+  "uuid": "9d50f65f8d68451fae97d1f1b43463b6"
+}
