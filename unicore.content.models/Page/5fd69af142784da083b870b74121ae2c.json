@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "eng_GB", 
+  "title": "Create the perfect password ", 
+  "primary_category": "a411e913f1c84d479befbd6af6024965", 
+  "created_at": "2016-01-17T05:30:17.159544+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2016-01-17T05:30:17.159738+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "*Dear Ms. Tech*\r\n\r\n*I just started my account on Facebook. My friend told me I should be careful with my password. What does it mean to create a secure password?* \r\n\r\n*Sincerely, \r\n\r\n*Tika from Jakarta*\r\n\r\nDear Tika from Jakarta,\r\n\r\nA password is like a secret code that protects the information that you have stored in your mobile phone or a computer. It\u2019s like a key to all the personal information that you have online. Just like you wouldn\u2019t want someone to get into your home and go through your personal possessions, you don\u2019t want someone to access your personal information online.\r\n\r\nMost websites and mobiles require a password. This might be 4 digit number code also know as a PIN, or it might be a password using numbers, letters and symbols. \r\n\r\nSecure passwords are really important when you are using a cyber-caf\u00e9 or if you share a phone with a family member. You should create different passwords for your Facebook and email. Don\u2019t share them with anyone (not even your very best friend!). You should also physically shield the computer with your body as you type in your password in at a cyber cafe.\r\n\r\nWhen creating a number code or PIN choose 4 numbers that mean something special to you, but that would be hard for someone else to guess. Don\u2019t use the day and year of your birth, for example. Don\u2019t use the last four digits of your mobile phone number. Also, don\u2019t use the same four numbers, like 2222. This kind of a code is too simple. Think of something creative that you will not easily forget!\r\n\r\nWhen choosing a password, with words and symbols think of a phrase that you will remember easily, but that no one else would guess. It might be the title of a book or song that you like, with each word capitalized and a number at the end. For example: StoryOfMyLife89. You can also replace some letters with symbols, for example D@nceToTheBe@t.\r\n\r\nAvoid using the names of your family members, friends, pets, anything relating to your birthday, your phone number, your hometown or your school. Don\u2019t write your password down in a place where someone can easily find it and break into your account.\r\n\r\nHave fun creating your password!\r\n\r\nLove Ms. Tech\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "create-perfect-password", 
+  "uuid": "5fd69af142784da083b870b74121ae2c"
+}
