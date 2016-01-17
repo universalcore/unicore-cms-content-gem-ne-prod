@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Now add up how many times you answered A and how many times you went with B. ", 
+  "language": "eng_GB", 
+  "title": " Are you a super saver - Your answers", 
+  "primary_category": "a411e913f1c84d479befbd6af6024965", 
+  "created_at": "2016-01-17T05:54:13.352990+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2016-01-17T05:54:13.353204+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "If you answered mostly As, you\u2019re a Super Spender!\r\n\r\nWhile it\u2019s not bad to spoil yourself sometimes, putting money aside now means you can do great things for yourself later. If you find it hard to not spend your money, leave your purse at home when you go out. Ask your parents, guardian or a trusted older sibling to help you save \u2013 either by helping you to open a bank account or by getting you a savings box. Make sure it has a lock so you can keep your cash safe at home. \r\n \r\nIf you answered mostly Bs, you\u2019re a Savvy Saver\r\n \r\nYou\u2019ve got big plans and you know that putting money aside now will help you achieve your dreams later in life. Have you reached a savings goal? Like putting money away every week for three straight months without spending? You can celebrate with a small treat! This will motivate you to keep saving for the bigger things, like your education or starting a business. \r\n \r\nIf you answered half-As and half-Bs, you\u2019re Miss In Between\r\n \r\nYou\u2019ve got some balance! You do save, but also like to treat yourself and sometimes end up spending on things you probably shouldn\u2019t. Keep track of how you spend your money to help you save even more. At the start of every week, write down how much money you have. Then, whenever you spend money, add it to your book with a note of what you spent it on. At the end of the month you can see where most of your money goes \u2013 and where you can save even more.\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "are-you-super-saver-your-answers", 
+  "uuid": "712cdc2386a04fd591527bd67a8fcbfe"
+}
