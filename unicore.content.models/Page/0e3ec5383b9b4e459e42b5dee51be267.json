@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": " Now count how many As, Bs or Cs you have and see below what it says about your health: ", 
+  "language": "eng_GB", 
+  "title": "How Healthy are you - Your answers", 
+  "primary_category": "a411e913f1c84d479befbd6af6024965", 
+  "created_at": "2016-01-17T05:59:19.016881+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2016-01-17T05:59:19.017085+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "If you have mostly As, you\u2019re a Healthy Hirut\r\nYou definitely know what\u2019s good for you and what\u2019s not. You know that drinking eight glasses of water a day is important, that there\u2019s no goodness in sugary drinks. You would rather be out on the sports field than hanging around stinky smokers. Keep it up even though sometimes it\u2019s hard to say no! To save money, and to encourage your family and friends to get healthy like you, try growing your own vegetables together! \r\n\r\nIf you have mostly Bs, you\u2019re a Borderline Bianca\r\nYou know what\u2019s good and bad, but you need a little reminder every now and then. Being healthy is all about good habits and you may have picked up a few too many bad ones. To get to star healthy status, why not set yourself some goals, like doing some exercise at least twice a week and making a healthy supper for the family that is packed with vegetables. Achieving your goals will make you feel proud and want to do even better! \r\n\r\nIf you have mostly Cs, you\u2019re a Disappointed Desi\r\nDon\u2019t despair, it\u2019s not too late to start making some serious changes. This is the only body you\u2019ve got, so it\u2019s your job to look after it! Why not start with small changes like ditching sugary snacks, rather eat energy packed fruit. And if you don\u2019t do much exercise, start by taking short walks with your friends, and then eventually turn them into short jogs! That will motivate you to stay on the healthy track. \r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "how-healthy-are-you-your-answers", 
+  "uuid": "0e3ec5383b9b4e459e42b5dee51be267"
+}
