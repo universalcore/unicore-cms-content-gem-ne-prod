@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "fre_FR", 
+  "title": "Les spam, les scams, et les virus! Que sont-ils?", 
+  "primary_category": "c63540b99f394f83b8029076d016710b", 
+  "created_at": "2016-02-08T07:46:32.633669+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2016-02-08T07:46:32.633885+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Ch\u00e8re Mme Tech,\r\n\r\nPouvez-vous m'expliquer ce qu'est un virus d'ordinateur? Est-ce qu'un virus signifie la m\u00eame chose qu'un spam? Je suis pas certaine de ce que ces deux choses signifient, je sais juste que ces deux choses sont mauvaises!\r\nCordialement,\r\nGirl in Xtown\r\n\r\nCh\u00e8re Girl in Xtown,\r\n\r\nUn virus d'ordinateur peut envahir votre t\u00e9l\u00e9phone ou votre ordinateur juste comme une maladie attaque votre corps. Un virus envahit normalement votre t\u00e9l\u00e9phone ou votre ordinateur sans que vous n'en soyez conscient. Il peut faire faire \u00e0 votre appareil des choses que contre votre gr\u00e9, comme envoyer des e-mails en votre nom! Les virus peuvent m\u00eame arr\u00eater votre appareil, occasionnant la perte de tout ce que vous avez pu stocker comme des photos, de la musique et des jeux. \r\n\r\nLes virus sont normalement transmis d'un ordinateur \u00e0 un autre -- ou d'un t\u00e9l\u00e9phone \u00e0 un autre -- \u00e0 travers des fichiers ou des liens. Donc le meilleure mani\u00e8re d'emp\u00eacher les virus d'attaquer votre portable ou votre ordinateur est d'\u00e9viter de partager des fichiers et d'ouvrir des liens \u00e0 partir de ressources inconnues.\r\n\r\nPour votre ordinateur vous pouvez installer un antivirus ou un logiciel de protection contre les virus. Parfois les propri\u00e9taires de Cyber Caf\u00e9 ne le font pas cependant et leurs ordinateurs peuvent transmettre des virus. La protection contre les virus n'est normalement pas disponible pour les t\u00e9l\u00e9phones portables.  Donc avec un t\u00e9l\u00e9phone portable, essayez d'\u00e9viter de partager des fichiers via Bluetooth ou de cliquer sue des liens qui sont suspects.\r\n\r\nSi vous recevez quelque chose d'un ami qui semble bizarre sur Facebook ou sur votre e-mail, cela pourrait signifier que son compte a \u00e9t\u00e9 infect\u00e9. Si un lien ou une publication semble suspecte, demandez \u00e0 votre ami si il ou elle l'a vraiment envoy\u00e9 avant de cliquer dessus \r\n\r\nLes virus peuvent \u00e9galement amener vos r\u00e9seaux sociaux ou votre e-mail \u00e0 envoyer des \"spam\" \u00e0 tous vos amis. On entend par spam des messages inappropri\u00e9s envoy\u00e9s via Internet \u00e0 un grand nombre de personnes. Ceux-ci peuvent \u00eatre des scams ou des liens de publicit\u00e9 ou de la pornographie. Si votre ordinateur ou t\u00e9l\u00e9phone portable a un virus, le virus peut commencer \u00e0 envoyer des e-mails de spam, et cela peut \u00eatre vraiment g\u00eanant.\r\n\r\nDonc il est important de s'assurer d'un lien avant de cliquer dessus pour \u00e9viter de charger un virus sur votre portable ou votre ordinateur. Si votre t\u00e9l\u00e9phone portable commence \u00e0 agir de mani\u00e8re bizarre, allez dans un magasin d'ordinateur ou de t\u00e9l\u00e9phone portable pour demander de l'aide le plus t\u00f4t possible!\r\n\r\nFaites attention \u00e0 ce que vous cliquer!\r\nCordialement, Mme Tech\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "les-spam-les-scams-et-les-virus-que-sont-ils", 
+  "uuid": "efd68ff389404007b486d9ceb506c083"
+}
