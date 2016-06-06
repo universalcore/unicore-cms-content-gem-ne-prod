@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "0dafed3963424850a2f5e44472f53166"
+  ], 
   "id": null, 
   "content": "Les habitudes comme manger des l\u00e9gumes frais et faire de l'exercice sont bonnes pour ton corps; les habitudes comme manger des sucreries et des frites, fumer et boire trop d'alcool sont mauvaises.  Il faut environ trois semaines pour former une habitude, vas-y et commence \u00e0 former de bonnes habitudes - tu te sentiras plus heureuse, plus s\u00fbre de toi, plus forte et en meilleure sant\u00e9.  \r\n\r\nR\u00e9ponds \u00e0 notre questionnaire pour trouver comment.\r\n\r\nInstructions\r\nLis les questions suivantes.  Choisis une r\u00e9ponse A, B ou C \u00e0 chaque question et ensuite clique sur la page suivante pour voir quel est ton \u00e9tat de sant\u00e9.  \r\n\r\nGrignoter entre les repas n'est pas toujours mauvais du moment o\u00f9 tu respectes le r\u00e9gime! \r\n\r\nEst-ce que tu :\r\nA: Grignotes tout genre d'aliments, m\u00eame les fruits ? \r\nB: Grignotes m\u00eame si tu n'as pas faim ? \r\nC: Grignotes seulement du chocolat, des g\u00e2teaux, des sucreries, des aliments frits comme les chips?\r\n\r\nC'est vraiment important de faire des exercices ou certains jeux qui gardent ton corps en mouvement.  \r\n\r\nEst-ce que tu :\r\nA: Sors et bouge chaque jour, m\u00eame si c'est pour un jeu amusant, courir ou marcher \u00e0 l'ext\u00e9rieur avec tes amis ? \r\nB: Fais du sport ou des exercices uniquement en cours de sport ? \r\nC: Pr\u00e9f\u00e8re rester \u00e0 l'int\u00e9rieur et n'aime pas vraiment beaucoup sortir ?   \r\n\r\nQue se passe t-il si quelqu'un autour de toi fume ?\r\n\r\nEst-ce que tu :\r\nA: Lui dis \u00e0 quel point c'est mauvais pour lui et pour toi ?  \r\nB:  L'ignores ? \r\nC: Lui demandes quelques cigarettes? \r\n\r\nC'est le weekend, le moment de faire une petite g\u00e2terie! Les options secondaires de ton repas sont du riz et de la salade ou des chips. \r\n\r\nEst-ce que tu :  \r\nA: Choisis le riz et la salade. \r\nB: Prends les trois.\r\nC: Manges uniquement les chips.\r\n\r\nLorsque tu as soif, quelle boisson choisis-tu ? \r\n\r\nA: Un grand verre d'eau\r\nB: Parfois de l'eau, mais tu pr\u00e9f\u00e8res des boissons sucr\u00e9es! \r\nC: Je ne vais boire que de l'eau!\r\n", 
   "source": "ceab299027a24821a64c51982623cbaf", 
