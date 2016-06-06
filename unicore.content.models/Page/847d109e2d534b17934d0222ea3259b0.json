@@ -6,12 +6,12 @@
   "primary_category": "bacd97a95386494abc571c419392c7d4", 
   "created_at": "2016-05-15T15:02:11+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-05-15T15:11:10.154687+00:00", 
+  "modified_at": "2016-06-06T06:26:25.187505+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -19,12 +19,12 @@
   ], 
   "id": null, 
   "content": "Dans le monde entier, les filles font des choses remarquables et inspirent les autres \u00e0 faire de m\u00eame.  En voici deux...\r\n\r\nLa fille qui s'est oppos\u00e9e \u00e0 la MGF\r\nLillian Mwita du Kenya, est franche, s\u00fbre d'elle et n'a pas peur de d\u00e9fendre ce en quoi elle croit.  \"Je n'accepterai jamais l'incision, qu'ils me bannissent du clan ou non\" A seulement neuf ans, lorsqu'elle fut face \u00e0 la mutilation g\u00e9nitale f\u00e9minine, elle s'enfuie de la maison et se r\u00e9fugia chez certains militants anti-MGF.  \"Je suis jeune.  J'ai de grands projets pour mon avenir et ma pr\u00e9coccupation en ce moment c'est l'\u00e9ducation,\" dit-elle. \r\n\r\nLa fille qui refuse d'accepter la violence\r\nJoyce Mkandawire a vu des filles \u00eatre forc\u00e9es \u00e0 avoir des relations sexuelles avec des hommes (appel\u00e9s hy\u00e8nes) dans son pays natal, le Malawi.  \"Les hy\u00e8nes ne se prot\u00e8gent pas, c'est pourquoi je connais des filles qui ont contract\u00e9 le VIH \u00e0 cause des hy\u00e8nes,\" expliqua t-elle.  Refusant d'adopter une attitude passive, Joyce d\u00e9cida de r\u00e9agir et cr\u00e9a le Girls Empowerment Network.  Sa t\u00e9nacit\u00e9 et son dynamisme aident \u00e0 op\u00e9rer de v\u00e9ritables changement pour les filles du Malawi, un changement pour le meilleur dirig\u00e9 par une autre Joyce \u2013 Pr\u00e9sidente Joyce Banda. \r\n\r\nLes filles ne peuvent pas r\u00e9ussir lorsqu'elles vivent dans la peur.  De la cr\u00e9ation des espaces s\u00fbrs \u00e0 faire passer des lois plus s\u00e9v\u00e8res, mettre fin \u00e0 la violence contre les filles est la premi\u00e8re \u00e9tape pour mettre fin \u00e0 la pauvret\u00e9 mondiale. Le leadership demande du courage.  \r\n\r\n\r\nVoici quelques conseils pour commencer.  ", 
-  "source": null, 
+  "source": "6b72f0b19f7447af81d0201dbd5858d7", 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 7, 
+  "position": 48, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "i-have-big-dreams-my-future", 
   "uuid": "847d109e2d534b17934d0222ea3259b0"
