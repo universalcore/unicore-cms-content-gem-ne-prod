@@ -4,14 +4,14 @@
   "language": "fre_FR", 
   "title": " \"Une fille n'est pas destin\u00e9e \u00e0 \u00eatre 'esclave'\"", 
   "primary_category": "bacd97a95386494abc571c419392c7d4", 
-  "created_at": "2016-05-15T15:09:24.907147+00:00", 
+  "created_at": "2016-05-15T15:09:24+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-05-15T15:09:24.907367+00:00", 
+  "modified_at": "2016-06-06T06:33:33.523332+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 42, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "girl-not-meant-be-slave", 
   "uuid": "34e0472b9ac4465f84e52c747436aa97"
