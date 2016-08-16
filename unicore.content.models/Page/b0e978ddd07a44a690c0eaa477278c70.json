@@ -1,17 +1,17 @@
 {
-  "subtitle": "Tu veux \u00eatre une fille dot\u00e9e d'une force int\u00e9rieure ? Essaye ces astuces pour y arriver.", 
-  "description": "", 
+  "subtitle": "", 
+  "description": "Tu veux \u00eatre une fille dot\u00e9e d'une force int\u00e9rieure ? Essaye ces astuces pour y arriver.", 
   "language": "fre_FR", 
   "title": "Vas-y ! Comment \u00eatre forte et puissante", 
   "primary_category": "c63540b99f394f83b8029076d016710b", 
   "created_at": "2016-07-25T20:48:46+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-08-09T13:58:23.246120+00:00", 
+  "modified_at": "2016-08-16T11:54:48.073008+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
